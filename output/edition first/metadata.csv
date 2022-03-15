@@ -1,0 +1,1651 @@
+,background,body,bodyColor,face,faceItem
+0,dotpict 14,body,light-gray,dotpict 17,none
+1,dotpict 8,body,black,dotpict 19,none
+2,dotpict 10,body,dotpict 52,long-mouth,none
+3,dotpict 5,body,dotpict 50,dotpict 19,none
+4,white,body,black,dotpict 18,none
+5,red,body,dotpict 55,dotpict 21,dotpict 65
+6,light-blue,body,dotpict 69,dotpict 59,none
+7,red,body,black,dotpict 18,none
+8,dotpict 7,body,gray,dotpict 19,none
+9,dotpict 2,body,light-gray,dotpict 49,none
+10,orange,body,black,long,dotpict 62
+11,dotpict 2,body,dotpict 55,dotpict 26,none
+12,dotpict 11,body,dotpict 66,dotpict 19,dotpict 58
+13,dotpict 11,body,dotpict 69,dotpict 20,dotpict 58
+14,dotpict 2,body,dotpict 46,dotpict 56,none
+15,light-blue,body,dotpict 46,dotpict 49,none
+16,red,body,dotpict 66,dotpict 20,none
+17,dotpict 3,body,white,dotpict 21,none
+18,dotpict 13,body,light-gray,dotpict 26,none
+19,light-blue,body,dotpict 52,dotpict 20,dotpict 63
+20,light-blue,body,light-gray,long-mouth,none
+21,dotpict 6,body,black,sleep,dotpict 61
+22,dotpict 4,body,dotpict 46,dotpict 56,dotpict 67
+23,dotpict 8,body,light-gray,dotpict 59,none
+24,dotpict 14,body,black,dotpict 24,none
+25,dotpict 5,body,dotpict 66,dotpict 26,none
+26,dotpict 8,body,black,dotpict 70,none
+27,dotpict 9,body,black,sleep,dotpict 63
+28,dotpict 14,body,light-gray,dotpict 56,none
+29,light-blue,body,dotpict 52,dotpict 49,none
+30,orange,body,dotpict 57,dotpict 59,none
+31,dotpict 6,body,dotpict 66,dotpict 70,dotpict 61
+32,dotpict 14,body,black,dotpict 59,none
+33,purple,body,white,dotpict 70,none
+34,dotpict 4,body,white,dotpict 24,none
+35,purple,body,dotpict 57,normal,none
+36,dotpict 11,body,dotpict 50,dotpict 59,none
+37,dotpict 13,body,dotpict 52,sleep,none
+38,dotpict 3,body,dotpict 66,sleep,none
+39,white,body,dotpict 69,dotpict 26,none
+40,dotpict 9,body,dotpict 57,long-mouth,dotpict 23
+41,dotpict 15,body,dotpict 46,dotpict 18,dotpict 58
+42,dotpict 4,body,dotpict 69,dotpict 17,dotpict 58
+43,red,body,dotpict 55,sleep,none
+44,orange,body,dotpict 55,dotpict 59,none
+45,dotpict 13,body,gray,dotpict 20,none
+46,dotpict 14,body,dotpict 66,sleep,none
+47,dotpict 13,body,dotpict 66,dotpict 19,none
+48,dotpict 5,body,dotpict 66,dotpict 17,none
+49,dotpict 14,body,dotpict 66,dotpict 20,none
+50,dotpict 4,body,dotpict 66,long-mouth,none
+51,dotpict 13,body,dotpict 69,long,none
+52,dotpict 6,body,gray,dotpict 19,none
+53,white,body,dotpict 52,dotpict 20,none
+54,orange,body,dotpict 57,dotpict 49,none
+55,dotpict 8,body,dotpict 52,dotpict 18,none
+56,white,body,white,dotpict 26,dotpict 63
+57,dotpict 12,body,dotpict 50,long-mouth,none
+58,dotpict 4,body,gray,normal,none
+59,dotpict 12,body,dotpict 50,dotpict 49,none
+60,dotpict 4,body,dotpict 52,normal,none
+61,dotpict 9,body,dotpict 52,long-mouth,none
+62,dotpict 10,body,dotpict 69,dotpict 70,none
+63,dotpict 11,body,dotpict 55,dotpict 70,none
+64,dotpict 11,body,black,dotpict 59,none
+65,dotpict 3,body,dotpict 55,dotpict 19,dotpict 62
+66,dotpict 15,body,dotpict 50,dotpict 19,none
+67,red,body,gray,long,none
+68,purple,body,dotpict 55,dotpict 26,none
+69,dotpict 11,body,dotpict 66,dotpict 49,dotpict 16
+70,dotpict 4,body,dotpict 52,dotpict 59,none
+71,dotpict 6,body,dotpict 69,dotpict 18,none
+72,dotpict 5,body,black,dotpict 21,none
+73,dotpict 15,body,dotpict 46,sleep,none
+74,dotpict 5,body,dotpict 57,long-mouth,none
+75,orange,body,gray,dotpict 70,none
+76,dotpict 6,body,dotpict 55,dotpict 26,none
+77,dotpict 7,body,dotpict 69,long,none
+78,dotpict 4,body,dotpict 57,dotpict 26,none
+79,dotpict 10,body,white,dotpict 24,dotpict 62
+80,dotpict 2,body,gray,dotpict 17,none
+81,red,body,dotpict 55,dotpict 19,none
+82,red,body,dotpict 46,dotpict 56,none
+83,dotpict 10,body,dotpict 52,long,none
+84,light-blue,body,black,long-mouth,dotpict 65
+85,dotpict 14,body,dotpict 66,dotpict 21,none
+86,white,body,dotpict 55,long,dotpict 16
+87,dotpict 12,body,dotpict 57,dotpict 49,none
+88,dotpict 3,body,gray,dotpict 18,none
+89,dotpict 12,body,dotpict 52,dotpict 18,none
+90,dotpict 11,body,gray,sleep,none
+91,light-blue,body,dotpict 50,dotpict 26,dotpict 58
+92,dotpict 11,body,dotpict 57,dotpict 49,none
+93,dotpict 13,body,dotpict 52,dotpict 20,none
+94,dotpict 15,body,dotpict 55,sleep,dotpict 23
+95,light-blue,body,dotpict 69,long-mouth,none
+96,dotpict 10,body,black,normal,none
+97,dotpict 13,body,dotpict 52,dotpict 56,dotpict 41
+98,dotpict 3,body,dotpict 69,sleep,none
+99,dotpict 11,body,gray,dotpict 24,none
+100,dotpict 8,body,light-gray,long-mouth,none
+101,dotpict 15,body,white,dotpict 56,none
+102,light-blue,body,dotpict 57,dotpict 59,none
+103,dotpict 13,body,black,dotpict 26,none
+104,dotpict 12,body,dotpict 46,sleep,none
+105,dotpict 5,body,dotpict 66,dotpict 18,none
+106,red,body,dotpict 69,long,none
+107,dotpict 3,body,black,dotpict 56,none
+108,dotpict 15,body,white,dotpict 26,none
+109,dotpict 12,body,dotpict 66,dotpict 21,none
+110,purple,body,dotpict 66,dotpict 59,none
+111,dotpict 3,body,dotpict 66,dotpict 21,none
+112,dotpict 7,body,dotpict 55,long,none
+113,dotpict 8,body,dotpict 57,dotpict 21,dotpict 67
+114,dotpict 8,body,gray,dotpict 17,none
+115,red,body,white,dotpict 19,none
+116,red,body,dotpict 46,normal,none
+117,orange,body,black,dotpict 19,none
+118,dotpict 9,body,dotpict 50,dotpict 19,none
+119,dotpict 2,body,dotpict 46,dotpict 19,dotpict 61
+120,dotpict 6,body,dotpict 55,dotpict 19,none
+121,dotpict 13,body,dotpict 55,dotpict 18,none
+122,purple,body,dotpict 55,normal,none
+123,dotpict 2,body,dotpict 57,dotpict 17,none
+124,white,body,dotpict 46,long-mouth,dotpict 60
+125,dotpict 9,body,gray,long,dotpict 58
+126,orange,body,light-gray,long-mouth,none
+127,dotpict 5,body,dotpict 69,dotpict 20,none
+128,white,body,dotpict 55,long-mouth,none
+129,dotpict 10,body,dotpict 46,dotpict 49,none
+130,dotpict 5,body,black,dotpict 24,dotpict 23
+131,dotpict 12,body,light-gray,dotpict 21,none
+132,light-blue,body,light-gray,dotpict 70,none
+133,dotpict 14,body,dotpict 50,dotpict 19,none
+134,dotpict 3,body,dotpict 46,dotpict 56,dotpict 65
+135,dotpict 14,body,dotpict 55,dotpict 59,dotpict 41
+136,dotpict 9,body,dotpict 57,dotpict 18,none
+137,dotpict 2,body,dotpict 66,dotpict 18,none
+138,white,body,dotpict 66,dotpict 59,none
+139,dotpict 12,body,light-gray,dotpict 24,none
+140,light-blue,body,dotpict 66,long,none
+141,orange,body,dotpict 52,dotpict 26,none
+142,dotpict 13,body,dotpict 52,dotpict 26,none
+143,dotpict 14,body,light-gray,normal,dotpict 63
+144,dotpict 8,body,black,dotpict 56,dotpict 67
+145,dotpict 5,body,dotpict 66,dotpict 24,none
+146,dotpict 10,body,gray,dotpict 17,dotpict 41
+147,dotpict 14,body,white,dotpict 26,none
+148,dotpict 15,body,dotpict 50,dotpict 56,dotpict 16
+149,dotpict 12,body,dotpict 57,dotpict 24,dotpict 23
+150,dotpict 10,body,white,sleep,none
+151,dotpict 10,body,gray,dotpict 21,none
+152,purple,body,gray,dotpict 59,none
+153,dotpict 12,body,black,dotpict 19,dotpict 67
+154,orange,body,dotpict 57,dotpict 70,none
+155,purple,body,dotpict 57,dotpict 20,none
+156,dotpict 5,body,gray,dotpict 59,dotpict 62
+157,red,body,dotpict 55,dotpict 56,dotpict 61
+158,dotpict 15,body,dotpict 66,dotpict 18,none
+159,white,body,gray,dotpict 20,none
+160,light-blue,body,dotpict 66,dotpict 20,none
+161,dotpict 5,body,dotpict 57,sleep,none
+162,dotpict 6,body,dotpict 50,dotpict 70,none
+163,dotpict 10,body,dotpict 57,long-mouth,none
+164,dotpict 15,body,white,dotpict 70,none
+165,dotpict 8,body,dotpict 66,dotpict 17,dotpict 41
+166,dotpict 12,body,dotpict 66,long-mouth,none
+167,dotpict 4,body,light-gray,dotpict 20,none
+168,dotpict 5,body,black,dotpict 26,dotpict 16
+169,orange,body,black,dotpict 56,none
+170,dotpict 3,body,dotpict 66,dotpict 20,none
+171,red,body,dotpict 57,dotpict 26,none
+172,dotpict 4,body,dotpict 55,dotpict 24,none
+173,dotpict 15,body,dotpict 46,sleep,dotpict 16
+174,dotpict 7,body,dotpict 52,long-mouth,none
+175,dotpict 13,body,white,dotpict 18,none
+176,dotpict 2,body,light-gray,sleep,none
+177,purple,body,dotpict 66,dotpict 21,none
+178,dotpict 5,body,light-gray,dotpict 56,none
+179,dotpict 15,body,dotpict 52,normal,none
+180,white,body,dotpict 69,dotpict 19,none
+181,dotpict 5,body,light-gray,dotpict 56,dotpict 62
+182,light-blue,body,dotpict 57,dotpict 24,none
+183,dotpict 8,body,gray,dotpict 24,none
+184,dotpict 2,body,dotpict 52,dotpict 17,none
+185,dotpict 10,body,dotpict 46,long,none
+186,dotpict 3,body,dotpict 69,dotpict 56,none
+187,dotpict 10,body,black,long-mouth,dotpict 63
+188,white,body,dotpict 55,long,none
+189,dotpict 3,body,gray,dotpict 56,none
+190,dotpict 8,body,dotpict 57,dotpict 70,none
+191,light-blue,body,white,normal,none
+192,dotpict 12,body,dotpict 57,long-mouth,none
+193,dotpict 8,body,dotpict 57,long,dotpict 39
+194,dotpict 7,body,dotpict 66,dotpict 19,none
+195,dotpict 10,body,gray,dotpict 20,none
+196,dotpict 8,body,dotpict 50,dotpict 56,none
+197,dotpict 10,body,dotpict 66,dotpict 17,none
+198,dotpict 3,body,dotpict 57,sleep,none
+199,dotpict 13,body,white,dotpict 17,none
+200,dotpict 12,body,light-gray,dotpict 59,none
+201,dotpict 3,body,dotpict 57,dotpict 21,none
+202,dotpict 11,body,dotpict 57,normal,none
+203,dotpict 12,body,dotpict 46,dotpict 70,none
+204,purple,body,dotpict 66,sleep,none
+205,dotpict 11,body,dotpict 57,dotpict 59,dotpict 62
+206,purple,body,dotpict 52,dotpict 59,none
+207,dotpict 11,body,dotpict 46,normal,none
+208,purple,body,gray,dotpict 59,dotpict 60
+209,dotpict 6,body,dotpict 52,dotpict 20,none
+210,dotpict 2,body,light-gray,dotpict 70,dotpict 41
+211,dotpict 6,body,dotpict 57,dotpict 24,none
+212,dotpict 4,body,dotpict 69,normal,none
+213,dotpict 8,body,dotpict 55,dotpict 17,none
+214,purple,body,gray,dotpict 70,dotpict 67
+215,dotpict 10,body,dotpict 50,dotpict 70,none
+216,dotpict 15,body,dotpict 50,dotpict 49,none
+217,dotpict 2,body,white,dotpict 21,none
+218,dotpict 2,body,light-gray,dotpict 21,none
+219,dotpict 7,body,light-gray,dotpict 24,none
+220,dotpict 9,body,dotpict 66,normal,none
+221,dotpict 14,body,dotpict 55,long,none
+222,light-blue,body,black,dotpict 17,none
+223,white,body,dotpict 55,dotpict 24,dotpict 39
+224,dotpict 12,body,dotpict 46,long,none
+225,dotpict 4,body,dotpict 46,sleep,none
+226,dotpict 12,body,white,dotpict 56,dotpict 63
+227,orange,body,dotpict 57,long-mouth,none
+228,dotpict 11,body,black,dotpict 20,none
+229,dotpict 10,body,dotpict 46,dotpict 70,none
+230,dotpict 12,body,dotpict 52,dotpict 70,dotpict 41
+231,dotpict 9,body,white,sleep,none
+232,dotpict 7,body,dotpict 55,normal,none
+233,dotpict 11,body,dotpict 69,long,none
+234,dotpict 5,body,dotpict 52,long-mouth,none
+235,dotpict 5,body,gray,dotpict 26,none
+236,dotpict 8,body,dotpict 66,dotpict 18,none
+237,dotpict 3,body,dotpict 69,normal,none
+238,dotpict 14,body,white,dotpict 21,none
+239,dotpict 11,body,black,dotpict 24,none
+240,dotpict 8,body,dotpict 69,long,none
+241,dotpict 7,body,white,dotpict 20,none
+242,white,body,dotpict 66,dotpict 18,none
+243,dotpict 3,body,gray,sleep,none
+244,dotpict 4,body,white,dotpict 59,none
+245,dotpict 9,body,dotpict 52,dotpict 56,none
+246,dotpict 8,body,light-gray,dotpict 70,none
+247,dotpict 8,body,dotpict 52,long,none
+248,dotpict 2,body,dotpict 50,long-mouth,dotpict 39
+249,dotpict 10,body,dotpict 52,sleep,none
+250,red,body,dotpict 69,dotpict 24,none
+251,dotpict 10,body,dotpict 55,dotpict 20,none
+252,light-blue,body,dotpict 55,long,none
+253,purple,body,dotpict 50,dotpict 70,dotpict 43
+254,white,body,dotpict 52,dotpict 24,none
+255,orange,body,dotpict 50,dotpict 56,none
+256,purple,body,black,sleep,dotpict 67
+257,dotpict 9,body,dotpict 52,normal,none
+258,dotpict 8,body,black,long-mouth,none
+259,dotpict 14,body,light-gray,dotpict 59,none
+260,dotpict 4,body,dotpict 52,dotpict 49,none
+261,white,body,dotpict 55,dotpict 19,dotpict 23
+262,purple,body,dotpict 50,normal,none
+263,dotpict 5,body,dotpict 46,dotpict 26,none
+264,dotpict 13,body,light-gray,long-mouth,none
+265,orange,body,white,dotpict 18,none
+266,dotpict 13,body,light-gray,dotpict 19,none
+267,dotpict 4,body,light-gray,dotpict 17,none
+268,red,body,white,dotpict 26,none
+269,white,body,white,dotpict 21,none
+270,white,body,light-gray,sleep,none
+271,dotpict 5,body,dotpict 69,normal,none
+272,dotpict 3,body,dotpict 57,dotpict 19,none
+273,dotpict 2,body,dotpict 69,dotpict 70,none
+274,dotpict 5,body,dotpict 57,dotpict 26,dotpict 61
+275,dotpict 14,body,dotpict 69,dotpict 59,dotpict 62
+276,orange,body,dotpict 55,sleep,none
+277,dotpict 10,body,dotpict 55,sleep,none
+278,dotpict 8,body,black,sleep,dotpict 60
+279,dotpict 12,body,dotpict 66,dotpict 20,none
+280,dotpict 7,body,dotpict 55,dotpict 56,none
+281,dotpict 6,body,dotpict 50,dotpict 49,none
+282,dotpict 13,body,white,dotpict 21,none
+283,dotpict 3,body,black,dotpict 49,none
+284,dotpict 10,body,gray,long,none
+285,dotpict 13,body,dotpict 57,dotpict 26,none
+286,dotpict 12,body,dotpict 55,dotpict 18,none
+287,dotpict 3,body,light-gray,sleep,none
+288,dotpict 2,body,dotpict 57,dotpict 24,dotpict 58
+289,dotpict 3,body,dotpict 50,dotpict 24,none
+290,dotpict 4,body,dotpict 46,dotpict 20,dotpict 43
+291,light-blue,body,white,dotpict 20,dotpict 16
+292,dotpict 11,body,dotpict 50,long-mouth,none
+293,dotpict 8,body,dotpict 50,dotpict 19,none
+294,dotpict 3,body,dotpict 55,dotpict 24,dotpict 58
+295,dotpict 9,body,dotpict 46,dotpict 19,none
+296,dotpict 12,body,dotpict 69,sleep,none
+297,orange,body,dotpict 66,dotpict 49,none
+298,dotpict 8,body,dotpict 46,dotpict 59,none
+299,dotpict 5,body,dotpict 50,dotpict 26,none
+300,dotpict 6,body,light-gray,dotpict 24,dotpict 23
+301,orange,body,dotpict 66,normal,dotpict 43
+302,white,body,dotpict 57,dotpict 19,none
+303,dotpict 9,body,dotpict 55,long,none
+304,dotpict 7,body,dotpict 50,long,none
+305,red,body,dotpict 46,dotpict 19,none
+306,dotpict 9,body,dotpict 55,long-mouth,none
+307,dotpict 4,body,dotpict 57,dotpict 17,none
+308,red,body,dotpict 50,dotpict 70,none
+309,dotpict 6,body,light-gray,sleep,none
+310,dotpict 12,body,dotpict 69,dotpict 70,none
+311,red,body,dotpict 69,sleep,none
+312,dotpict 11,body,gray,long-mouth,none
+313,dotpict 7,body,dotpict 69,dotpict 26,none
+314,dotpict 11,body,dotpict 55,dotpict 17,dotpict 61
+315,dotpict 13,body,dotpict 66,dotpict 26,none
+316,dotpict 10,body,dotpict 66,dotpict 49,none
+317,dotpict 2,body,white,dotpict 56,none
+318,dotpict 12,body,black,dotpict 49,none
+319,orange,body,dotpict 50,dotpict 49,none
+320,red,body,gray,long-mouth,dotpict 62
+321,dotpict 3,body,light-gray,dotpict 56,none
+322,dotpict 9,body,dotpict 55,normal,dotpict 16
+323,dotpict 6,body,dotpict 66,dotpict 70,none
+324,dotpict 10,body,white,dotpict 26,none
+325,dotpict 6,body,dotpict 69,dotpict 49,none
+326,orange,body,dotpict 52,dotpict 49,dotpict 61
+327,dotpict 5,body,dotpict 66,dotpict 70,none
+328,orange,body,dotpict 55,normal,none
+329,dotpict 5,body,dotpict 46,dotpict 17,none
+330,dotpict 6,body,dotpict 46,dotpict 19,none
+331,dotpict 11,body,white,dotpict 26,dotpict 60
+332,white,body,dotpict 46,dotpict 59,dotpict 58
+333,dotpict 10,body,dotpict 69,dotpict 24,none
+334,dotpict 8,body,dotpict 52,dotpict 26,none
+335,dotpict 7,body,dotpict 69,dotpict 18,none
+336,light-blue,body,dotpict 50,long,none
+337,white,body,dotpict 50,dotpict 19,none
+338,dotpict 5,body,dotpict 46,dotpict 18,dotpict 39
+339,dotpict 9,body,dotpict 55,normal,none
+340,dotpict 15,body,dotpict 55,long,dotpict 62
+341,dotpict 4,body,light-gray,dotpict 49,none
+342,white,body,dotpict 50,dotpict 26,none
+343,dotpict 9,body,dotpict 50,long,none
+344,orange,body,dotpict 66,dotpict 59,none
+345,dotpict 6,body,white,dotpict 70,none
+346,dotpict 12,body,dotpict 69,dotpict 18,none
+347,dotpict 4,body,dotpict 50,dotpict 70,dotpict 41
+348,dotpict 15,body,black,dotpict 19,dotpict 41
+349,dotpict 14,body,black,dotpict 21,none
+350,dotpict 4,body,dotpict 66,dotpict 59,none
+351,light-blue,body,dotpict 52,long-mouth,none
+352,dotpict 14,body,black,dotpict 18,none
+353,dotpict 7,body,dotpict 46,dotpict 24,none
+354,dotpict 2,body,dotpict 69,dotpict 20,none
+355,dotpict 3,body,dotpict 66,dotpict 26,dotpict 67
+356,dotpict 5,body,dotpict 66,dotpict 20,none
+357,dotpict 5,body,dotpict 50,normal,none
+358,dotpict 2,body,white,dotpict 24,none
+359,dotpict 13,body,dotpict 57,dotpict 56,none
+360,dotpict 15,body,dotpict 50,dotpict 18,none
+361,dotpict 11,body,dotpict 55,dotpict 17,none
+362,dotpict 9,body,dotpict 57,long,none
+363,orange,body,white,normal,none
+364,dotpict 4,body,white,long,none
+365,light-blue,body,black,long-mouth,none
+366,dotpict 7,body,dotpict 66,long-mouth,none
+367,dotpict 10,body,black,dotpict 70,none
+368,dotpict 15,body,black,dotpict 59,none
+369,purple,body,dotpict 66,dotpict 49,none
+370,purple,body,dotpict 46,dotpict 26,none
+371,dotpict 10,body,dotpict 46,dotpict 18,none
+372,dotpict 6,body,gray,dotpict 18,none
+373,dotpict 15,body,white,dotpict 17,dotpict 23
+374,dotpict 14,body,gray,dotpict 56,none
+375,red,body,dotpict 50,dotpict 56,dotpict 63
+376,dotpict 6,body,gray,dotpict 49,none
+377,orange,body,dotpict 66,long,none
+378,dotpict 15,body,dotpict 57,dotpict 19,none
+379,dotpict 8,body,light-gray,long,none
+380,dotpict 7,body,white,dotpict 18,dotpict 62
+381,dotpict 10,body,dotpict 50,dotpict 59,dotpict 61
+382,purple,body,dotpict 50,dotpict 59,none
+383,dotpict 3,body,light-gray,dotpict 20,none
+384,dotpict 11,body,light-gray,dotpict 56,none
+385,dotpict 4,body,dotpict 69,dotpict 49,none
+386,dotpict 9,body,dotpict 69,dotpict 18,dotpict 23
+387,dotpict 12,body,dotpict 57,dotpict 26,none
+388,orange,body,light-gray,dotpict 17,none
+389,dotpict 11,body,dotpict 50,dotpict 18,none
+390,dotpict 2,body,gray,dotpict 20,dotpict 39
+391,white,body,light-gray,normal,dotpict 23
+392,orange,body,dotpict 69,long-mouth,dotpict 67
+393,purple,body,dotpict 69,dotpict 17,dotpict 61
+394,dotpict 8,body,black,dotpict 21,none
+395,white,body,gray,dotpict 70,none
+396,dotpict 7,body,gray,long,none
+397,dotpict 10,body,white,dotpict 24,none
+398,dotpict 6,body,dotpict 52,sleep,none
+399,dotpict 7,body,dotpict 50,dotpict 49,none
+400,dotpict 2,body,dotpict 46,dotpict 49,none
+401,dotpict 15,body,dotpict 66,dotpict 19,none
+402,dotpict 4,body,light-gray,dotpict 70,none
+403,white,body,dotpict 69,dotpict 20,none
+404,dotpict 4,body,light-gray,dotpict 49,dotpict 63
+405,white,body,light-gray,dotpict 18,none
+406,dotpict 7,body,white,dotpict 18,none
+407,dotpict 2,body,dotpict 57,long-mouth,none
+408,dotpict 6,body,dotpict 57,dotpict 17,none
+409,dotpict 15,body,dotpict 66,dotpict 70,none
+410,dotpict 12,body,gray,dotpict 21,none
+411,white,body,dotpict 66,dotpict 21,none
+412,dotpict 6,body,dotpict 57,sleep,none
+413,dotpict 10,body,black,dotpict 20,none
+414,dotpict 5,body,light-gray,dotpict 18,none
+415,red,body,dotpict 50,dotpict 19,none
+416,dotpict 12,body,black,dotpict 21,dotpict 62
+417,white,body,dotpict 55,dotpict 21,none
+418,purple,body,dotpict 55,dotpict 59,dotpict 58
+419,light-blue,body,white,dotpict 21,none
+420,dotpict 10,body,light-gray,dotpict 17,none
+421,dotpict 15,body,dotpict 50,dotpict 56,none
+422,dotpict 15,body,light-gray,dotpict 20,none
+423,dotpict 4,body,black,dotpict 56,dotpict 65
+424,dotpict 7,body,white,long,dotpict 61
+425,dotpict 6,body,dotpict 55,dotpict 18,none
+426,dotpict 8,body,black,dotpict 18,none
+427,dotpict 15,body,dotpict 52,dotpict 26,dotpict 61
+428,dotpict 10,body,black,dotpict 49,dotpict 23
+429,dotpict 3,body,dotpict 66,dotpict 19,none
+430,red,body,dotpict 50,dotpict 21,none
+431,dotpict 11,body,black,long-mouth,dotpict 58
+432,dotpict 15,body,dotpict 50,dotpict 70,none
+433,dotpict 5,body,white,dotpict 49,none
+434,orange,body,white,dotpict 17,none
+435,dotpict 7,body,dotpict 69,dotpict 59,none
+436,dotpict 13,body,white,dotpict 59,none
+437,dotpict 13,body,black,long-mouth,none
+438,white,body,white,dotpict 17,none
+439,dotpict 2,body,dotpict 50,long,dotpict 67
+440,dotpict 4,body,dotpict 52,dotpict 17,none
+441,dotpict 11,body,black,dotpict 17,none
+442,orange,body,dotpict 69,dotpict 26,none
+443,dotpict 6,body,dotpict 46,dotpict 17,none
+444,dotpict 14,body,dotpict 69,dotpict 26,dotpict 62
+445,dotpict 4,body,dotpict 57,dotpict 20,none
+446,orange,body,dotpict 66,dotpict 18,dotpict 23
+447,dotpict 13,body,dotpict 55,long,none
+448,dotpict 14,body,dotpict 57,dotpict 21,none
+449,dotpict 14,body,dotpict 46,dotpict 56,none
+450,dotpict 3,body,dotpict 66,dotpict 18,none
+451,dotpict 14,body,dotpict 69,dotpict 17,dotpict 16
+452,dotpict 11,body,dotpict 50,dotpict 49,none
+453,dotpict 6,body,dotpict 57,dotpict 20,none
+454,dotpict 10,body,dotpict 69,dotpict 26,none
+455,red,body,dotpict 52,dotpict 26,none
+456,dotpict 2,body,light-gray,dotpict 24,none
+457,dotpict 9,body,black,dotpict 49,none
+458,dotpict 12,body,dotpict 66,sleep,none
+459,dotpict 2,body,black,dotpict 26,none
+460,dotpict 2,body,dotpict 66,dotpict 26,none
+461,dotpict 11,body,dotpict 46,dotpict 19,none
+462,dotpict 7,body,dotpict 57,long,none
+463,dotpict 12,body,dotpict 55,dotpict 21,none
+464,dotpict 15,body,dotpict 69,dotpict 26,none
+465,dotpict 14,body,dotpict 50,dotpict 24,none
+466,dotpict 6,body,dotpict 46,normal,none
+467,dotpict 3,body,dotpict 46,normal,none
+468,white,body,light-gray,dotpict 20,none
+469,dotpict 9,body,white,long-mouth,none
+470,dotpict 13,body,black,normal,none
+471,orange,body,black,dotpict 70,none
+472,dotpict 8,body,light-gray,dotpict 19,none
+473,dotpict 15,body,dotpict 55,dotpict 18,none
+474,dotpict 6,body,dotpict 52,normal,none
+475,dotpict 8,body,light-gray,normal,none
+476,white,body,dotpict 69,dotpict 24,dotpict 67
+477,dotpict 10,body,dotpict 55,dotpict 49,dotpict 61
+478,dotpict 8,body,dotpict 57,sleep,none
+479,red,body,dotpict 57,long,none
+480,orange,body,gray,sleep,none
+481,dotpict 8,body,black,long,dotpict 67
+482,purple,body,gray,sleep,none
+483,dotpict 3,body,dotpict 69,dotpict 20,none
+484,dotpict 5,body,dotpict 66,dotpict 49,none
+485,dotpict 7,body,dotpict 69,dotpict 24,dotpict 60
+486,dotpict 9,body,black,normal,none
+487,dotpict 10,body,black,dotpict 26,none
+488,dotpict 11,body,dotpict 50,dotpict 20,none
+489,dotpict 11,body,dotpict 69,sleep,none
+490,dotpict 6,body,dotpict 69,dotpict 70,dotpict 61
+491,dotpict 5,body,dotpict 55,dotpict 59,none
+492,red,body,dotpict 55,long,none
+493,light-blue,body,dotpict 52,sleep,dotpict 61
+494,dotpict 8,body,dotpict 66,dotpict 20,none
+495,dotpict 7,body,dotpict 57,dotpict 26,none
+496,red,body,black,long-mouth,none
+497,orange,body,dotpict 66,dotpict 56,dotpict 61
+498,dotpict 15,body,dotpict 69,long-mouth,none
+499,dotpict 14,body,dotpict 66,dotpict 24,dotpict 60
+500,dotpict 2,body,dotpict 66,dotpict 59,none
+501,dotpict 13,body,gray,dotpict 59,none
+502,dotpict 11,body,light-gray,dotpict 17,dotpict 62
+503,dotpict 5,body,dotpict 52,dotpict 26,none
+504,dotpict 15,body,gray,long,none
+505,dotpict 6,body,dotpict 46,dotpict 49,none
+506,dotpict 10,body,dotpict 57,dotpict 19,none
+507,dotpict 2,body,dotpict 52,dotpict 26,dotpict 62
+508,dotpict 6,body,dotpict 57,dotpict 56,none
+509,dotpict 12,body,dotpict 52,dotpict 19,none
+510,dotpict 12,body,black,dotpict 19,none
+511,red,body,dotpict 46,dotpict 70,none
+512,dotpict 3,body,dotpict 66,dotpict 26,none
+513,light-blue,body,white,dotpict 19,none
+514,dotpict 12,body,light-gray,sleep,none
+515,dotpict 12,body,dotpict 50,dotpict 26,none
+516,dotpict 8,body,dotpict 69,dotpict 19,none
+517,dotpict 14,body,dotpict 69,sleep,none
+518,dotpict 3,body,white,dotpict 18,none
+519,dotpict 11,body,black,dotpict 26,none
+520,dotpict 13,body,dotpict 57,sleep,none
+521,dotpict 13,body,black,dotpict 70,none
+522,white,body,dotpict 57,normal,none
+523,dotpict 11,body,dotpict 52,dotpict 19,none
+524,dotpict 8,body,gray,dotpict 19,none
+525,dotpict 5,body,gray,dotpict 49,none
+526,dotpict 12,body,black,dotpict 18,none
+527,dotpict 10,body,light-gray,normal,none
+528,dotpict 8,body,dotpict 69,dotpict 17,none
+529,dotpict 8,body,dotpict 52,normal,none
+530,dotpict 15,body,white,dotpict 49,dotpict 65
+531,dotpict 7,body,dotpict 57,dotpict 56,dotpict 61
+532,white,body,dotpict 46,long,none
+533,dotpict 14,body,light-gray,long,none
+534,orange,body,dotpict 69,dotpict 59,none
+535,white,body,white,dotpict 56,dotpict 61
+536,purple,body,light-gray,dotpict 70,dotpict 43
+537,purple,body,dotpict 57,dotpict 18,none
+538,dotpict 9,body,gray,dotpict 24,none
+539,dotpict 2,body,dotpict 50,dotpict 24,none
+540,red,body,black,sleep,dotpict 23
+541,dotpict 13,body,dotpict 69,dotpict 19,none
+542,dotpict 3,body,dotpict 55,dotpict 17,dotpict 23
+543,dotpict 12,body,dotpict 57,dotpict 21,none
+544,purple,body,dotpict 69,dotpict 17,none
+545,dotpict 12,body,black,normal,none
+546,orange,body,black,dotpict 49,dotpict 23
+547,light-blue,body,gray,dotpict 24,none
+548,dotpict 11,body,dotpict 46,long-mouth,none
+549,dotpict 9,body,white,long,none
+550,dotpict 9,body,white,dotpict 20,dotpict 41
+551,dotpict 6,body,black,dotpict 19,none
+552,dotpict 14,body,dotpict 52,dotpict 19,none
+553,dotpict 13,body,dotpict 52,long,none
+554,dotpict 10,body,gray,long-mouth,dotpict 67
+555,purple,body,dotpict 46,dotpict 20,none
+556,dotpict 10,body,dotpict 55,dotpict 59,none
+557,dotpict 10,body,white,long,none
+558,dotpict 8,body,black,dotpict 17,dotpict 67
+559,dotpict 4,body,dotpict 52,sleep,none
+560,dotpict 9,body,black,dotpict 24,none
+561,dotpict 5,body,dotpict 50,dotpict 59,none
+562,white,body,dotpict 69,dotpict 70,none
+563,dotpict 6,body,black,sleep,none
+564,dotpict 3,body,dotpict 66,dotpict 19,dotpict 16
+565,dotpict 2,body,dotpict 55,dotpict 70,none
+566,dotpict 9,body,dotpict 46,dotpict 17,none
+567,dotpict 3,body,white,dotpict 20,none
+568,dotpict 7,body,dotpict 69,normal,dotpict 61
+569,light-blue,body,dotpict 46,long,none
+570,dotpict 6,body,white,dotpict 19,dotpict 63
+571,purple,body,light-gray,dotpict 26,none
+572,dotpict 9,body,dotpict 57,dotpict 24,none
+573,dotpict 9,body,black,dotpict 26,none
+574,purple,body,black,sleep,none
+575,dotpict 3,body,dotpict 57,dotpict 70,none
+576,dotpict 9,body,dotpict 57,dotpict 17,none
+577,dotpict 15,body,dotpict 57,long-mouth,none
+578,dotpict 14,body,dotpict 69,dotpict 24,none
+579,dotpict 10,body,dotpict 50,dotpict 20,none
+580,dotpict 2,body,dotpict 55,sleep,none
+581,purple,body,dotpict 69,dotpict 59,none
+582,dotpict 14,body,dotpict 50,dotpict 70,none
+583,dotpict 7,body,gray,long-mouth,dotpict 43
+584,red,body,dotpict 57,dotpict 18,dotpict 65
+585,dotpict 8,body,dotpict 50,dotpict 70,none
+586,light-blue,body,dotpict 52,dotpict 49,dotpict 58
+587,purple,body,dotpict 50,sleep,none
+588,dotpict 7,body,dotpict 57,dotpict 18,none
+589,purple,body,white,dotpict 20,none
+590,dotpict 5,body,dotpict 50,long,dotpict 23
+591,dotpict 7,body,black,long,none
+592,dotpict 13,body,dotpict 69,dotpict 21,dotpict 23
+593,dotpict 10,body,white,dotpict 21,none
+594,dotpict 4,body,dotpict 50,dotpict 24,none
+595,dotpict 10,body,dotpict 69,dotpict 19,dotpict 58
+596,orange,body,dotpict 46,long,dotpict 62
+597,dotpict 14,body,black,dotpict 19,none
+598,white,body,dotpict 52,normal,none
+599,dotpict 15,body,light-gray,dotpict 59,none
+600,dotpict 4,body,dotpict 52,dotpict 21,none
+601,purple,body,black,dotpict 26,none
+602,orange,body,white,dotpict 21,none
+603,purple,body,dotpict 57,dotpict 70,none
+604,dotpict 15,body,dotpict 55,normal,none
+605,orange,body,dotpict 69,long-mouth,none
+606,dotpict 5,body,dotpict 52,dotpict 19,none
+607,dotpict 11,body,white,dotpict 70,none
+608,dotpict 2,body,white,dotpict 59,dotpict 16
+609,light-blue,body,light-gray,dotpict 24,none
+610,dotpict 12,body,gray,dotpict 26,none
+611,dotpict 10,body,white,dotpict 19,dotpict 23
+612,dotpict 11,body,dotpict 57,dotpict 17,none
+613,dotpict 6,body,dotpict 69,dotpict 17,none
+614,dotpict 14,body,dotpict 52,normal,none
+615,white,body,white,long-mouth,none
+616,orange,body,dotpict 69,dotpict 17,dotpict 43
+617,dotpict 4,body,gray,dotpict 24,dotpict 60
+618,dotpict 4,body,dotpict 46,dotpict 26,none
+619,dotpict 7,body,light-gray,normal,none
+620,dotpict 6,body,dotpict 52,long-mouth,dotpict 61
+621,dotpict 2,body,dotpict 66,dotpict 49,none
+622,dotpict 7,body,dotpict 50,dotpict 19,none
+623,orange,body,light-gray,dotpict 70,dotpict 16
+624,dotpict 13,body,dotpict 69,dotpict 20,dotpict 43
+625,dotpict 14,body,dotpict 69,dotpict 70,none
+626,dotpict 7,body,dotpict 66,normal,none
+627,purple,body,white,dotpict 56,none
+628,dotpict 11,body,dotpict 50,dotpict 21,none
+629,dotpict 12,body,dotpict 46,dotpict 17,dotpict 39
+630,dotpict 11,body,black,long-mouth,none
+631,dotpict 13,body,dotpict 69,dotpict 24,none
+632,dotpict 8,body,dotpict 57,normal,none
+633,dotpict 2,body,gray,dotpict 70,none
+634,red,body,dotpict 66,dotpict 59,dotpict 23
+635,dotpict 15,body,dotpict 50,long-mouth,none
+636,light-blue,body,black,normal,none
+637,red,body,dotpict 52,sleep,none
+638,dotpict 8,body,dotpict 52,dotpict 26,dotpict 58
+639,dotpict 9,body,dotpict 66,dotpict 49,none
+640,dotpict 4,body,gray,dotpict 24,none
+641,dotpict 3,body,gray,normal,none
+642,purple,body,dotpict 55,dotpict 18,none
+643,dotpict 9,body,dotpict 69,sleep,none
+644,light-blue,body,light-gray,dotpict 17,none
+645,light-blue,body,dotpict 55,dotpict 21,none
+646,light-blue,body,light-gray,dotpict 49,none
+647,dotpict 10,body,dotpict 69,normal,none
+648,dotpict 13,body,black,dotpict 21,none
+649,red,body,dotpict 52,dotpict 49,none
+650,dotpict 3,body,white,dotpict 70,none
+651,dotpict 2,body,white,long,dotpict 16
+652,dotpict 3,body,dotpict 52,long,none
+653,white,body,dotpict 52,long,none
+654,dotpict 7,body,dotpict 52,long,none
+655,dotpict 4,body,dotpict 46,dotpict 24,dotpict 62
+656,dotpict 15,body,dotpict 69,dotpict 49,none
+657,dotpict 5,body,dotpict 55,normal,none
+658,dotpict 11,body,gray,dotpict 21,none
+659,dotpict 11,body,dotpict 52,dotpict 24,none
+660,dotpict 3,body,dotpict 55,dotpict 21,none
+661,dotpict 11,body,dotpict 57,dotpict 19,none
+662,dotpict 6,body,dotpict 50,dotpict 59,none
+663,dotpict 5,body,black,dotpict 26,dotpict 43
+664,dotpict 3,body,dotpict 50,dotpict 20,none
+665,dotpict 7,body,dotpict 57,dotpict 21,none
+666,dotpict 3,body,dotpict 57,dotpict 18,dotpict 61
+667,dotpict 14,body,dotpict 50,long,none
+668,dotpict 4,body,dotpict 66,sleep,none
+669,dotpict 8,body,dotpict 57,dotpict 56,none
+670,light-blue,body,dotpict 50,dotpict 59,none
+671,dotpict 5,body,white,dotpict 21,none
+672,dotpict 7,body,dotpict 66,dotpict 20,dotpict 39
+673,orange,body,dotpict 57,dotpict 26,dotpict 65
+674,dotpict 11,body,light-gray,dotpict 20,none
+675,red,body,dotpict 52,dotpict 17,none
+676,dotpict 13,body,gray,long,none
+677,dotpict 9,body,white,dotpict 70,none
+678,dotpict 4,body,white,dotpict 56,none
+679,dotpict 7,body,black,dotpict 24,none
+680,white,body,gray,long-mouth,dotpict 41
+681,dotpict 10,body,black,dotpict 59,none
+682,dotpict 14,body,dotpict 57,normal,dotpict 63
+683,dotpict 5,body,gray,dotpict 19,none
+684,red,body,white,dotpict 20,dotpict 63
+685,orange,body,dotpict 55,dotpict 18,dotpict 43
+686,purple,body,dotpict 52,dotpict 49,none
+687,dotpict 9,body,white,dotpict 24,none
+688,dotpict 6,body,dotpict 66,long,none
+689,dotpict 4,body,dotpict 69,dotpict 70,none
+690,red,body,light-gray,dotpict 24,dotpict 41
+691,dotpict 3,body,white,dotpict 17,none
+692,dotpict 10,body,dotpict 69,dotpict 18,none
+693,light-blue,body,dotpict 66,dotpict 26,none
+694,dotpict 2,body,light-gray,dotpict 18,dotpict 62
+695,light-blue,body,light-gray,dotpict 26,none
+696,purple,body,dotpict 46,normal,none
+697,dotpict 11,body,dotpict 46,dotpict 24,none
+698,light-blue,body,light-gray,dotpict 21,none
+699,light-blue,body,dotpict 46,dotpict 59,none
+700,orange,body,white,dotpict 19,none
+701,dotpict 13,body,dotpict 57,normal,none
+702,dotpict 12,body,gray,dotpict 24,dotpict 58
+703,light-blue,body,dotpict 46,dotpict 56,none
+704,dotpict 7,body,gray,dotpict 56,none
+705,dotpict 8,body,dotpict 46,dotpict 26,none
+706,dotpict 4,body,dotpict 66,dotpict 21,dotpict 39
+707,orange,body,gray,long-mouth,dotpict 39
+708,dotpict 11,body,white,dotpict 59,none
+709,dotpict 15,body,dotpict 52,long-mouth,none
+710,dotpict 13,body,white,dotpict 26,none
+711,dotpict 2,body,gray,dotpict 21,none
+712,light-blue,body,light-gray,dotpict 20,none
+713,white,body,light-gray,dotpict 70,none
+714,orange,body,dotpict 50,dotpict 70,none
+715,purple,body,dotpict 52,dotpict 19,none
+716,orange,body,black,dotpict 59,none
+717,light-blue,body,dotpict 46,dotpict 21,none
+718,dotpict 11,body,gray,dotpict 59,dotpict 60
+719,dotpict 9,body,dotpict 52,dotpict 19,none
+720,dotpict 15,body,dotpict 46,long,none
+721,dotpict 15,body,dotpict 55,dotpict 21,none
+722,dotpict 6,body,black,dotpict 56,none
+723,dotpict 4,body,dotpict 66,dotpict 70,dotpict 67
+724,dotpict 5,body,dotpict 55,dotpict 49,dotpict 16
+725,light-blue,body,dotpict 66,dotpict 56,dotpict 41
+726,dotpict 2,body,dotpict 66,long,none
+727,dotpict 2,body,dotpict 46,normal,none
+728,purple,body,black,dotpict 24,none
+729,dotpict 7,body,dotpict 55,sleep,dotpict 39
+730,dotpict 2,body,light-gray,dotpict 56,none
+731,light-blue,body,black,dotpict 24,none
+732,dotpict 6,body,dotpict 50,dotpict 26,dotpict 65
+733,dotpict 2,body,dotpict 55,dotpict 59,none
+734,red,body,dotpict 66,normal,none
+735,dotpict 15,body,black,long-mouth,none
+736,dotpict 13,body,dotpict 46,dotpict 24,none
+737,dotpict 11,body,dotpict 46,dotpict 70,dotpict 67
+738,dotpict 14,body,dotpict 66,dotpict 26,none
+739,dotpict 6,body,dotpict 57,dotpict 18,none
+740,white,body,dotpict 55,dotpict 18,none
+741,dotpict 8,body,dotpict 50,dotpict 26,none
+742,dotpict 9,body,dotpict 69,dotpict 20,none
+743,dotpict 7,body,dotpict 55,sleep,none
+744,purple,body,dotpict 46,dotpict 26,dotpict 39
+745,dotpict 12,body,dotpict 50,normal,none
+746,dotpict 15,body,dotpict 57,dotpict 26,none
+747,red,body,dotpict 57,dotpict 24,dotpict 65
+748,dotpict 14,body,dotpict 46,sleep,none
+749,dotpict 6,body,black,normal,dotpict 41
+750,dotpict 4,body,light-gray,dotpict 18,none
+751,red,body,dotpict 55,dotpict 49,none
+752,dotpict 13,body,dotpict 57,dotpict 20,dotpict 61
+753,dotpict 10,body,dotpict 69,dotpict 49,dotpict 62
+754,dotpict 12,body,dotpict 52,dotpict 24,none
+755,dotpict 12,body,dotpict 52,dotpict 49,dotpict 67
+756,dotpict 10,body,dotpict 69,dotpict 21,none
+757,dotpict 14,body,dotpict 46,dotpict 26,none
+758,dotpict 2,body,dotpict 46,long,dotpict 58
+759,dotpict 2,body,light-gray,dotpict 18,none
+760,red,body,dotpict 66,dotpict 59,none
+761,dotpict 6,body,dotpict 55,dotpict 19,dotpict 61
+762,dotpict 11,body,dotpict 50,normal,none
+763,dotpict 13,body,gray,long-mouth,none
+764,dotpict 5,body,light-gray,normal,none
+765,dotpict 14,body,dotpict 66,dotpict 56,none
+766,dotpict 2,body,dotpict 46,dotpict 20,dotpict 41
+767,dotpict 12,body,black,dotpict 20,none
+768,dotpict 14,body,dotpict 55,normal,none
+769,dotpict 4,body,black,dotpict 70,none
+770,dotpict 2,body,black,dotpict 21,none
+771,dotpict 6,body,dotpict 52,dotpict 21,none
+772,light-blue,body,dotpict 46,dotpict 24,none
+773,dotpict 7,body,black,long-mouth,none
+774,red,body,dotpict 52,dotpict 20,none
+775,dotpict 15,body,gray,dotpict 19,none
+776,orange,body,light-gray,dotpict 56,none
+777,white,body,dotpict 57,dotpict 20,none
+778,light-blue,body,dotpict 55,dotpict 59,none
+779,dotpict 2,body,dotpict 55,long,none
+780,dotpict 14,body,white,dotpict 19,none
+781,dotpict 5,body,dotpict 55,dotpict 24,none
+782,dotpict 7,body,white,dotpict 26,none
+783,dotpict 7,body,dotpict 55,dotpict 21,none
+784,white,body,dotpict 55,sleep,none
+785,red,body,white,sleep,none
+786,dotpict 14,body,dotpict 52,dotpict 17,none
+787,dotpict 10,body,dotpict 66,sleep,none
+788,dotpict 14,body,dotpict 69,dotpict 18,none
+789,dotpict 12,body,dotpict 52,sleep,none
+790,dotpict 8,body,dotpict 69,dotpict 70,none
+791,dotpict 3,body,dotpict 52,long,dotpict 58
+792,dotpict 12,body,dotpict 55,dotpict 56,none
+793,dotpict 6,body,black,dotpict 19,dotpict 58
+794,dotpict 6,body,dotpict 66,dotpict 49,none
+795,dotpict 4,body,dotpict 50,dotpict 49,dotpict 16
+796,dotpict 12,body,gray,dotpict 19,none
+797,red,body,dotpict 46,long-mouth,none
+798,purple,body,dotpict 50,dotpict 20,none
+799,dotpict 12,body,dotpict 57,sleep,none
+800,dotpict 8,body,dotpict 46,sleep,none
+801,white,body,dotpict 55,dotpict 20,dotpict 43
+802,dotpict 14,body,gray,dotpict 21,none
+803,dotpict 11,body,black,dotpict 56,none
+804,light-blue,body,dotpict 57,dotpict 26,none
+805,dotpict 4,body,black,dotpict 20,none
+806,dotpict 9,body,dotpict 50,dotpict 59,none
+807,dotpict 10,body,white,dotpict 20,none
+808,dotpict 5,body,light-gray,long-mouth,none
+809,purple,body,light-gray,dotpict 19,dotpict 67
+810,dotpict 9,body,dotpict 69,dotpict 59,none
+811,orange,body,gray,dotpict 19,none
+812,dotpict 6,body,gray,dotpict 21,none
+813,dotpict 7,body,dotpict 52,dotpict 70,none
+814,purple,body,white,dotpict 17,none
+815,dotpict 6,body,dotpict 55,dotpict 70,none
+816,red,body,dotpict 69,dotpict 56,none
+817,red,body,white,dotpict 24,none
+818,dotpict 3,body,dotpict 52,dotpict 17,none
+819,light-blue,body,dotpict 55,dotpict 70,none
+820,dotpict 8,body,dotpict 66,dotpict 19,none
+821,dotpict 6,body,dotpict 55,long,none
+822,dotpict 15,body,black,long,none
+823,orange,body,dotpict 50,normal,dotpict 67
+824,dotpict 14,body,dotpict 66,dotpict 59,none
+825,dotpict 7,body,dotpict 57,dotpict 24,none
+826,orange,body,light-gray,dotpict 26,dotpict 63
+827,dotpict 12,body,white,dotpict 21,none
+828,dotpict 14,body,dotpict 55,dotpict 17,none
+829,dotpict 5,body,white,dotpict 20,none
+830,dotpict 8,body,dotpict 46,dotpict 18,none
+831,dotpict 12,body,dotpict 69,dotpict 17,none
+832,red,body,gray,long,dotpict 63
+833,light-blue,body,dotpict 55,dotpict 56,none
+834,dotpict 7,body,dotpict 66,dotpict 56,none
+835,dotpict 4,body,gray,dotpict 17,none
+836,dotpict 11,body,dotpict 46,sleep,none
+837,dotpict 13,body,white,long-mouth,none
+838,white,body,dotpict 46,normal,none
+839,light-blue,body,dotpict 66,sleep,dotpict 58
+840,dotpict 15,body,black,dotpict 24,dotpict 43
+841,red,body,dotpict 52,dotpict 18,none
+842,dotpict 2,body,dotpict 57,sleep,none
+843,dotpict 3,body,black,dotpict 21,none
+844,dotpict 11,body,dotpict 52,long-mouth,none
+845,dotpict 5,body,dotpict 69,dotpict 70,none
+846,orange,body,dotpict 55,dotpict 56,none
+847,dotpict 13,body,dotpict 69,dotpict 59,none
+848,dotpict 10,body,dotpict 57,dotpict 49,none
+849,dotpict 9,body,dotpict 52,dotpict 59,none
+850,dotpict 13,body,dotpict 52,normal,none
+851,light-blue,body,white,dotpict 26,dotpict 61
+852,dotpict 2,body,white,dotpict 20,dotpict 58
+853,dotpict 8,body,dotpict 55,dotpict 56,dotpict 39
+854,dotpict 13,body,dotpict 55,dotpict 49,none
+855,dotpict 13,body,black,dotpict 49,none
+856,dotpict 7,body,gray,dotpict 49,dotpict 61
+857,light-blue,body,gray,dotpict 21,dotpict 61
+858,dotpict 15,body,light-gray,dotpict 26,none
+859,dotpict 10,body,dotpict 69,sleep,none
+860,dotpict 9,body,dotpict 66,dotpict 18,none
+861,white,body,dotpict 50,dotpict 56,none
+862,dotpict 7,body,gray,dotpict 20,none
+863,dotpict 12,body,dotpict 55,long-mouth,none
+864,dotpict 3,body,dotpict 46,dotpict 20,dotpict 39
+865,dotpict 15,body,dotpict 52,sleep,none
+866,dotpict 15,body,dotpict 55,long-mouth,none
+867,white,body,gray,normal,none
+868,dotpict 5,body,white,dotpict 59,none
+869,dotpict 2,body,dotpict 46,dotpict 24,none
+870,dotpict 11,body,dotpict 46,dotpict 18,none
+871,dotpict 6,body,white,dotpict 18,none
+872,orange,body,dotpict 69,dotpict 19,none
+873,dotpict 10,body,dotpict 46,sleep,none
+874,dotpict 13,body,dotpict 55,long-mouth,none
+875,dotpict 2,body,dotpict 69,dotpict 56,none
+876,dotpict 11,body,dotpict 52,dotpict 18,none
+877,dotpict 2,body,dotpict 52,long,none
+878,white,body,dotpict 50,dotpict 59,none
+879,purple,body,dotpict 52,long,none
+880,dotpict 6,body,dotpict 50,normal,none
+881,dotpict 13,body,dotpict 46,dotpict 59,none
+882,dotpict 3,body,light-gray,dotpict 18,dotpict 67
+883,purple,body,dotpict 50,dotpict 21,none
+884,dotpict 14,body,dotpict 69,long-mouth,none
+885,dotpict 14,body,dotpict 46,dotpict 17,none
+886,dotpict 8,body,gray,dotpict 56,none
+887,dotpict 5,body,black,sleep,dotpict 67
+888,dotpict 5,body,dotpict 69,dotpict 21,none
+889,dotpict 4,body,light-gray,long,none
+890,light-blue,body,dotpict 66,sleep,none
+891,dotpict 10,body,dotpict 52,dotpict 59,dotpict 65
+892,light-blue,body,dotpict 46,normal,none
+893,dotpict 5,body,dotpict 57,dotpict 20,none
+894,red,body,dotpict 50,sleep,none
+895,dotpict 6,body,dotpict 66,dotpict 20,none
+896,dotpict 4,body,black,dotpict 18,none
+897,dotpict 3,body,dotpict 46,dotpict 49,none
+898,purple,body,black,dotpict 20,none
+899,dotpict 6,body,dotpict 46,dotpict 59,dotpict 43
+900,dotpict 2,body,dotpict 69,dotpict 26,none
+901,dotpict 2,body,dotpict 50,normal,none
+902,dotpict 2,body,gray,sleep,none
+903,dotpict 13,body,dotpict 52,dotpict 24,none
+904,dotpict 2,body,dotpict 52,dotpict 56,none
+905,red,body,dotpict 50,long,none
+906,purple,body,black,dotpict 19,none
+907,white,body,dotpict 57,dotpict 18,none
+908,dotpict 4,body,gray,dotpict 26,none
+909,dotpict 6,body,dotpict 55,dotpict 17,dotpict 65
+910,dotpict 14,body,dotpict 55,dotpict 21,dotpict 58
+911,purple,body,dotpict 55,dotpict 19,dotpict 39
+912,dotpict 6,body,dotpict 46,sleep,none
+913,dotpict 8,body,dotpict 52,dotpict 20,none
+914,dotpict 5,body,gray,dotpict 18,none
+915,orange,body,light-gray,dotpict 24,none
+916,dotpict 8,body,dotpict 46,long-mouth,none
+917,dotpict 11,body,white,long,none
+918,purple,body,dotpict 66,dotpict 24,none
+919,dotpict 10,body,dotpict 55,dotpict 19,none
+920,orange,body,dotpict 46,long,none
+921,dotpict 6,body,gray,long-mouth,none
+922,orange,body,dotpict 69,dotpict 70,dotpict 23
+923,dotpict 12,body,white,dotpict 26,none
+924,dotpict 9,body,light-gray,dotpict 18,dotpict 41
+925,dotpict 12,body,dotpict 55,dotpict 59,none
+926,dotpict 10,body,dotpict 66,dotpict 56,dotpict 65
+927,dotpict 13,body,light-gray,dotpict 49,dotpict 41
+928,dotpict 13,body,dotpict 55,dotpict 56,none
+929,dotpict 3,body,gray,dotpict 21,dotpict 43
+930,white,body,gray,dotpict 17,none
+931,dotpict 2,body,dotpict 69,dotpict 20,dotpict 65
+932,white,body,dotpict 57,dotpict 19,dotpict 60
+933,dotpict 9,body,white,dotpict 21,none
+934,white,body,white,dotpict 19,none
+935,dotpict 14,body,dotpict 69,dotpict 20,none
+936,dotpict 15,body,dotpict 50,dotpict 17,none
+937,dotpict 13,body,dotpict 66,dotpict 24,none
+938,dotpict 10,body,dotpict 46,dotpict 24,none
+939,dotpict 11,body,black,normal,none
+940,light-blue,body,dotpict 46,dotpict 19,none
+941,dotpict 11,body,light-gray,sleep,none
+942,dotpict 2,body,dotpict 57,dotpict 20,none
+943,dotpict 8,body,black,dotpict 26,none
+944,orange,body,light-gray,dotpict 49,none
+945,dotpict 6,body,black,dotpict 24,none
+946,dotpict 13,body,dotpict 52,dotpict 59,none
+947,dotpict 3,body,dotpict 52,dotpict 20,none
+948,dotpict 7,body,white,dotpict 24,none
+949,dotpict 14,body,white,dotpict 70,none
+950,red,body,dotpict 46,dotpict 26,none
+951,dotpict 10,body,dotpict 66,dotpict 17,dotpict 63
+952,dotpict 11,body,dotpict 57,sleep,dotpict 65
+953,dotpict 12,body,dotpict 57,dotpict 56,none
+954,dotpict 2,body,gray,dotpict 24,none
+955,red,body,light-gray,dotpict 70,none
+956,dotpict 13,body,dotpict 52,dotpict 24,dotpict 61
+957,dotpict 12,body,dotpict 66,dotpict 70,none
+958,light-blue,body,dotpict 50,sleep,none
+959,light-blue,body,black,sleep,none
+960,dotpict 15,body,dotpict 57,dotpict 17,none
+961,dotpict 8,body,dotpict 46,dotpict 24,dotpict 63
+962,dotpict 3,body,dotpict 46,sleep,none
+963,red,body,dotpict 52,dotpict 59,none
+964,dotpict 15,body,dotpict 50,dotpict 20,none
+965,dotpict 7,body,dotpict 52,dotpict 56,none
+966,dotpict 11,body,dotpict 50,dotpict 56,none
+967,red,body,gray,dotpict 70,dotpict 23
+968,dotpict 14,body,black,dotpict 56,none
+969,orange,body,dotpict 66,dotpict 21,none
+970,dotpict 15,body,dotpict 66,dotpict 20,none
+971,dotpict 7,body,dotpict 50,sleep,none
+972,dotpict 14,body,white,dotpict 20,none
+973,dotpict 14,body,black,dotpict 70,dotpict 65
+974,dotpict 6,body,gray,dotpict 59,none
+975,dotpict 2,body,dotpict 46,long,none
+976,orange,body,dotpict 69,long-mouth,dotpict 16
+977,dotpict 2,body,dotpict 50,dotpict 18,none
+978,red,body,dotpict 55,dotpict 70,none
+979,white,body,dotpict 55,dotpict 49,none
+980,dotpict 12,body,dotpict 69,dotpict 19,none
+981,dotpict 10,body,black,dotpict 21,none
+982,dotpict 13,body,dotpict 46,dotpict 18,none
+983,dotpict 9,body,dotpict 69,dotpict 70,none
+984,dotpict 10,body,dotpict 46,dotpict 20,none
+985,dotpict 10,body,white,sleep,dotpict 60
+986,orange,body,black,dotpict 18,none
+987,purple,body,dotpict 46,dotpict 19,dotpict 65
+988,dotpict 10,body,dotpict 52,dotpict 20,none
+989,dotpict 11,body,dotpict 55,sleep,none
+990,dotpict 15,body,dotpict 55,dotpict 17,none
+991,orange,body,light-gray,dotpict 21,dotpict 65
+992,dotpict 8,body,dotpict 66,dotpict 26,dotpict 23
+993,dotpict 12,body,black,dotpict 17,none
+994,dotpict 13,body,dotpict 52,dotpict 56,none
+995,dotpict 8,body,black,long-mouth,dotpict 16
+996,dotpict 3,body,dotpict 69,dotpict 18,none
+997,dotpict 4,body,light-gray,dotpict 26,none
+998,dotpict 11,body,dotpict 57,sleep,none
+999,dotpict 5,body,dotpict 66,sleep,none
+1000,dotpict 10,body,dotpict 66,dotpict 20,dotpict 16
+1001,dotpict 8,body,dotpict 57,dotpict 17,none
+1002,dotpict 13,body,dotpict 50,normal,none
+1003,dotpict 14,body,black,dotpict 26,none
+1004,red,body,dotpict 46,dotpict 20,none
+1005,dotpict 4,body,dotpict 66,dotpict 24,none
+1006,dotpict 13,body,dotpict 57,dotpict 18,none
+1007,dotpict 3,body,light-gray,long-mouth,none
+1008,purple,body,white,dotpict 20,dotpict 23
+1009,dotpict 7,body,gray,dotpict 18,none
+1010,light-blue,body,dotpict 66,dotpict 59,none
+1011,dotpict 10,body,dotpict 55,long,none
+1012,dotpict 13,body,light-gray,dotpict 17,none
+1013,light-blue,body,light-gray,dotpict 56,none
+1014,dotpict 13,body,dotpict 66,normal,none
+1015,dotpict 10,body,dotpict 50,dotpict 21,dotpict 65
+1016,dotpict 5,body,light-gray,dotpict 56,dotpict 43
+1017,dotpict 6,body,gray,dotpict 17,dotpict 41
+1018,dotpict 15,body,light-gray,dotpict 17,dotpict 67
+1019,dotpict 2,body,dotpict 50,dotpict 17,dotpict 67
+1020,dotpict 10,body,dotpict 50,dotpict 49,none
+1021,purple,body,dotpict 57,dotpict 17,none
+1022,dotpict 15,body,gray,normal,none
+1023,orange,body,dotpict 66,dotpict 49,dotpict 62
+1024,purple,body,white,dotpict 18,none
+1025,dotpict 3,body,dotpict 50,dotpict 59,none
+1026,dotpict 11,body,black,long,none
+1027,dotpict 4,body,light-gray,dotpict 56,none
+1028,red,body,dotpict 69,dotpict 19,none
+1029,dotpict 5,body,dotpict 55,long-mouth,dotpict 62
+1030,dotpict 6,body,light-gray,dotpict 19,none
+1031,dotpict 10,body,white,dotpict 56,none
+1032,dotpict 12,body,gray,sleep,none
+1033,dotpict 5,body,dotpict 69,sleep,none
+1034,dotpict 13,body,dotpict 57,dotpict 49,none
+1035,dotpict 7,body,dotpict 46,long,none
+1036,dotpict 2,body,white,dotpict 20,dotpict 43
+1037,dotpict 15,body,gray,dotpict 17,none
+1038,purple,body,light-gray,long,dotpict 58
+1039,dotpict 6,body,dotpict 46,dotpict 56,none
+1040,dotpict 4,body,dotpict 66,dotpict 26,none
+1041,light-blue,body,dotpict 55,dotpict 20,dotpict 65
+1042,dotpict 5,body,dotpict 57,long,none
+1043,dotpict 4,body,dotpict 57,dotpict 56,dotpict 58
+1044,dotpict 2,body,dotpict 50,dotpict 19,none
+1045,dotpict 13,body,dotpict 50,sleep,none
+1046,dotpict 14,body,dotpict 57,long,none
+1047,dotpict 9,body,gray,dotpict 18,none
+1048,dotpict 3,body,light-gray,dotpict 49,none
+1049,light-blue,body,dotpict 69,dotpict 26,none
+1050,purple,body,dotpict 52,dotpict 70,none
+1051,dotpict 11,body,black,sleep,none
+1052,dotpict 10,body,gray,dotpict 17,none
+1053,dotpict 13,body,white,normal,dotpict 60
+1054,dotpict 6,body,dotpict 52,dotpict 59,none
+1055,dotpict 14,body,dotpict 55,dotpict 56,dotpict 63
+1056,white,body,light-gray,long,dotpict 62
+1057,dotpict 11,body,gray,dotpict 20,none
+1058,dotpict 5,body,dotpict 66,dotpict 59,none
+1059,dotpict 4,body,dotpict 50,dotpict 17,dotpict 23
+1060,dotpict 10,body,dotpict 66,long-mouth,none
+1061,orange,body,dotpict 50,dotpict 26,none
+1062,dotpict 8,body,gray,dotpict 26,none
+1063,dotpict 4,body,dotpict 50,dotpict 17,none
+1064,dotpict 6,body,dotpict 57,dotpict 19,none
+1065,dotpict 9,body,dotpict 69,dotpict 19,none
+1066,dotpict 2,body,dotpict 57,dotpict 24,dotpict 61
+1067,white,body,black,long-mouth,dotpict 16
+1068,red,body,dotpict 55,dotpict 18,dotpict 58
+1069,dotpict 10,body,dotpict 55,dotpict 18,dotpict 61
+1070,dotpict 7,body,dotpict 52,dotpict 17,none
+1071,dotpict 12,body,dotpict 50,dotpict 19,none
+1072,dotpict 10,body,gray,long-mouth,none
+1073,dotpict 5,body,dotpict 69,dotpict 59,none
+1074,light-blue,body,dotpict 57,dotpict 21,none
+1075,orange,body,dotpict 46,sleep,none
+1076,dotpict 15,body,dotpict 50,normal,none
+1077,orange,body,dotpict 52,long-mouth,none
+1078,dotpict 3,body,dotpict 57,dotpict 24,dotpict 62
+1079,dotpict 15,body,light-gray,long-mouth,none
+1080,dotpict 14,body,gray,sleep,dotpict 65
+1081,white,body,dotpict 55,dotpict 17,none
+1082,dotpict 4,body,dotpict 52,dotpict 18,none
+1083,dotpict 7,body,dotpict 52,normal,none
+1084,dotpict 2,body,dotpict 50,dotpict 18,dotpict 61
+1085,light-blue,body,dotpict 66,dotpict 70,none
+1086,dotpict 2,body,dotpict 66,dotpict 24,none
+1087,dotpict 3,body,dotpict 66,dotpict 56,none
+1088,dotpict 9,body,dotpict 52,sleep,dotpict 16
+1089,white,body,light-gray,dotpict 70,dotpict 58
+1090,dotpict 2,body,dotpict 66,normal,none
+1091,dotpict 8,body,light-gray,dotpict 26,dotpict 58
+1092,dotpict 12,body,white,dotpict 19,dotpict 23
+1093,dotpict 8,body,dotpict 66,dotpict 24,none
+1094,dotpict 6,body,dotpict 52,dotpict 26,none
+1095,dotpict 13,body,dotpict 46,dotpict 20,none
+1096,dotpict 10,body,black,dotpict 18,none
+1097,dotpict 6,body,light-gray,dotpict 70,none
+1098,dotpict 15,body,dotpict 57,dotpict 21,none
+1099,dotpict 3,body,light-gray,normal,dotpict 63
+1100,red,body,white,dotpict 59,none
+1101,dotpict 10,body,light-gray,long,none
+1102,light-blue,body,dotpict 52,dotpict 20,none
+1103,dotpict 12,body,light-gray,normal,none
+1104,orange,body,dotpict 52,normal,dotpict 62
+1105,dotpict 10,body,dotpict 57,dotpict 59,none
+1106,dotpict 11,body,dotpict 57,dotpict 59,none
+1107,dotpict 4,body,dotpict 50,dotpict 70,none
+1108,dotpict 7,body,dotpict 69,dotpict 24,dotpict 41
+1109,dotpict 4,body,dotpict 55,long,dotpict 23
+1110,dotpict 4,body,dotpict 69,dotpict 19,none
+1111,dotpict 13,body,dotpict 66,long-mouth,none
+1112,white,body,dotpict 50,long-mouth,none
+1113,dotpict 5,body,dotpict 52,dotpict 56,none
+1114,dotpict 2,body,dotpict 57,dotpict 19,dotpict 39
+1115,dotpict 8,body,dotpict 57,dotpict 24,none
+1116,dotpict 9,body,gray,long-mouth,dotpict 63
+1117,purple,body,light-gray,dotpict 19,none
+1118,red,body,dotpict 55,long-mouth,none
+1119,light-blue,body,black,dotpict 26,none
+1120,dotpict 3,body,dotpict 57,dotpict 18,none
+1121,dotpict 7,body,dotpict 52,dotpict 17,dotpict 16
+1122,dotpict 14,body,dotpict 52,dotpict 18,none
+1123,dotpict 15,body,white,dotpict 20,none
+1124,dotpict 9,body,black,long-mouth,dotpict 65
+1125,dotpict 15,body,dotpict 52,long,none
+1126,dotpict 3,body,dotpict 57,normal,none
+1127,dotpict 10,body,dotpict 69,dotpict 19,none
+1128,purple,body,gray,dotpict 21,none
+1129,orange,body,dotpict 57,dotpict 19,dotpict 61
+1130,red,body,dotpict 66,sleep,none
+1131,dotpict 4,body,dotpict 66,dotpict 70,none
+1132,dotpict 12,body,dotpict 69,long,none
+1133,dotpict 6,body,dotpict 55,dotpict 17,none
+1134,dotpict 4,body,dotpict 57,dotpict 59,none
+1135,white,body,dotpict 69,sleep,dotpict 61
+1136,dotpict 15,body,gray,dotpict 18,none
+1137,dotpict 5,body,black,long,dotpict 62
+1138,light-blue,body,dotpict 55,dotpict 49,none
+1139,dotpict 10,body,black,dotpict 49,none
+1140,dotpict 15,body,dotpict 55,dotpict 17,dotpict 43
+1141,orange,body,dotpict 69,sleep,none
+1142,dotpict 2,body,dotpict 57,dotpict 49,dotpict 60
+1143,dotpict 7,body,light-gray,dotpict 56,none
+1144,dotpict 14,body,dotpict 46,dotpict 21,none
+1145,dotpict 2,body,dotpict 50,long-mouth,none
+1146,dotpict 12,body,dotpict 46,dotpict 56,none
+1147,dotpict 3,body,dotpict 55,dotpict 56,none
+1148,dotpict 7,body,dotpict 57,dotpict 20,none
+1149,dotpict 11,body,dotpict 66,sleep,none
+1150,dotpict 8,body,dotpict 55,dotpict 19,none
+1151,white,body,white,long-mouth,dotpict 67
+1152,light-blue,body,dotpict 55,long-mouth,none
+1153,dotpict 9,body,dotpict 46,sleep,none
+1154,dotpict 7,body,dotpict 46,dotpict 49,none
+1155,white,body,black,normal,none
+1156,white,body,dotpict 46,dotpict 17,none
+1157,white,body,black,long,none
+1158,dotpict 4,body,black,long,none
+1159,dotpict 5,body,white,normal,none
+1160,dotpict 11,body,dotpict 69,dotpict 70,none
+1161,dotpict 5,body,black,dotpict 20,none
+1162,white,body,dotpict 46,dotpict 70,none
+1163,red,body,dotpict 50,dotpict 20,none
+1164,dotpict 2,body,dotpict 69,long-mouth,dotpict 61
+1165,dotpict 6,body,white,dotpict 21,none
+1166,dotpict 15,body,dotpict 57,dotpict 24,none
+1167,purple,body,black,normal,none
+1168,dotpict 15,body,gray,dotpict 70,none
+1169,light-blue,body,dotpict 46,dotpict 70,none
+1170,light-blue,body,dotpict 52,dotpict 17,none
+1171,dotpict 5,body,gray,dotpict 24,dotpict 43
+1172,dotpict 11,body,dotpict 69,dotpict 26,none
+1173,dotpict 11,body,dotpict 57,dotpict 21,none
+1174,dotpict 9,body,black,dotpict 17,dotpict 43
+1175,red,body,dotpict 52,long,dotpict 43
+1176,dotpict 14,body,dotpict 66,dotpict 70,dotpict 62
+1177,white,body,gray,dotpict 59,none
+1178,dotpict 2,body,light-gray,dotpict 59,dotpict 65
+1179,dotpict 6,body,dotpict 69,dotpict 70,none
+1180,dotpict 5,body,dotpict 57,dotpict 20,dotpict 65
+1181,orange,body,dotpict 66,long-mouth,none
+1182,dotpict 9,body,black,dotpict 56,none
+1183,dotpict 6,body,dotpict 66,dotpict 21,none
+1184,red,body,black,dotpict 20,none
+1185,dotpict 9,body,dotpict 57,dotpict 70,none
+1186,dotpict 7,body,white,long,none
+1187,orange,body,white,dotpict 19,dotpict 62
+1188,dotpict 8,body,dotpict 69,dotpict 59,none
+1189,dotpict 10,body,light-gray,dotpict 19,none
+1190,purple,body,dotpict 66,dotpict 19,none
+1191,red,body,dotpict 52,normal,dotpict 61
+1192,dotpict 6,body,dotpict 46,dotpict 21,none
+1193,dotpict 3,body,dotpict 57,dotpict 20,none
+1194,orange,body,dotpict 66,dotpict 56,none
+1195,purple,body,dotpict 46,dotpict 18,none
+1196,orange,body,gray,long,none
+1197,dotpict 2,body,white,dotpict 19,none
+1198,dotpict 12,body,dotpict 55,dotpict 17,dotpict 63
+1199,dotpict 8,body,black,dotpict 59,none
+1200,dotpict 8,body,dotpict 52,dotpict 24,none
+1201,light-blue,body,dotpict 52,dotpict 70,none
+1202,red,body,black,dotpict 19,none
+1203,purple,body,dotpict 50,dotpict 49,none
+1204,dotpict 5,body,dotpict 66,dotpict 56,none
+1205,orange,body,black,dotpict 26,none
+1206,dotpict 11,body,white,dotpict 26,none
+1207,dotpict 7,body,dotpict 57,dotpict 17,none
+1208,dotpict 13,body,dotpict 50,dotpict 24,none
+1209,dotpict 2,body,dotpict 46,dotpict 56,dotpict 43
+1210,dotpict 10,body,black,sleep,none
+1211,dotpict 10,body,dotpict 52,dotpict 56,none
+1212,dotpict 11,body,dotpict 55,normal,dotpict 58
+1213,dotpict 3,body,black,sleep,dotpict 16
+1214,white,body,gray,long-mouth,none
+1215,dotpict 4,body,dotpict 69,dotpict 18,none
+1216,dotpict 10,body,dotpict 66,long,none
+1217,dotpict 13,body,dotpict 57,dotpict 18,dotpict 16
+1218,dotpict 14,body,black,dotpict 17,none
+1219,light-blue,body,gray,long-mouth,none
+1220,dotpict 9,body,dotpict 55,dotpict 49,none
+1221,dotpict 3,body,black,dotpict 19,none
+1222,dotpict 10,body,dotpict 52,dotpict 26,dotpict 60
+1223,dotpict 10,body,dotpict 50,long-mouth,none
+1224,light-blue,body,dotpict 50,long-mouth,none
+1225,dotpict 14,body,dotpict 66,dotpict 56,dotpict 65
+1226,dotpict 4,body,dotpict 52,dotpict 70,none
+1227,purple,body,dotpict 50,dotpict 26,dotpict 16
+1228,dotpict 11,body,dotpict 46,long,none
+1229,dotpict 7,body,dotpict 66,dotpict 21,none
+1230,dotpict 6,body,dotpict 46,dotpict 21,dotpict 61
+1231,light-blue,body,dotpict 55,dotpict 18,dotpict 65
+1232,dotpict 13,body,black,dotpict 19,none
+1233,red,body,white,dotpict 17,none
+1234,dotpict 12,body,dotpict 69,dotpict 56,none
+1235,red,body,dotpict 46,dotpict 17,none
+1236,dotpict 11,body,dotpict 55,dotpict 20,none
+1237,purple,body,dotpict 52,dotpict 17,none
+1238,dotpict 13,body,dotpict 57,dotpict 20,dotpict 63
+1239,purple,body,dotpict 52,dotpict 21,none
+1240,dotpict 6,body,dotpict 55,dotpict 24,dotpict 43
+1241,dotpict 14,body,dotpict 66,dotpict 19,dotpict 23
+1242,dotpict 12,body,black,dotpict 21,none
+1243,dotpict 9,body,dotpict 55,dotpict 56,none
+1244,dotpict 8,body,dotpict 52,sleep,none
+1245,white,body,white,dotpict 56,none
+1246,dotpict 2,body,dotpict 46,dotpict 59,dotpict 16
+1247,dotpict 9,body,dotpict 66,long,none
+1248,light-blue,body,dotpict 66,dotpict 18,none
+1249,dotpict 11,body,white,dotpict 56,none
+1250,dotpict 9,body,dotpict 66,long-mouth,none
+1251,dotpict 4,body,dotpict 57,dotpict 24,dotpict 43
+1252,dotpict 11,body,light-gray,normal,none
+1253,red,body,white,normal,none
+1254,dotpict 10,body,white,dotpict 18,dotpict 23
+1255,dotpict 9,body,dotpict 69,dotpict 26,dotpict 61
+1256,dotpict 15,body,white,dotpict 19,none
+1257,white,body,dotpict 66,dotpict 49,none
+1258,red,body,light-gray,long,none
+1259,dotpict 12,body,white,normal,none
+1260,dotpict 3,body,dotpict 52,dotpict 19,none
+1261,dotpict 8,body,gray,long-mouth,dotpict 63
+1262,dotpict 10,body,gray,dotpict 18,none
+1263,dotpict 7,body,gray,dotpict 70,none
+1264,dotpict 11,body,dotpict 57,long-mouth,none
+1265,orange,body,dotpict 57,normal,none
+1266,dotpict 8,body,white,dotpict 59,dotpict 67
+1267,dotpict 3,body,dotpict 52,dotpict 26,none
+1268,dotpict 5,body,dotpict 46,dotpict 20,none
+1269,dotpict 6,body,dotpict 50,dotpict 24,none
+1270,orange,body,dotpict 66,dotpict 26,dotpict 58
+1271,dotpict 10,body,white,dotpict 17,none
+1272,white,body,black,dotpict 17,dotpict 41
+1273,dotpict 12,body,dotpict 46,dotpict 24,none
+1274,dotpict 2,body,dotpict 66,dotpict 20,none
+1275,dotpict 4,body,gray,sleep,none
+1276,dotpict 7,body,dotpict 69,normal,dotpict 60
+1277,dotpict 7,body,black,dotpict 19,none
+1278,dotpict 6,body,black,dotpict 21,none
+1279,dotpict 6,body,dotpict 46,dotpict 20,none
+1280,dotpict 8,body,dotpict 69,dotpict 49,none
+1281,dotpict 10,body,dotpict 52,dotpict 70,none
+1282,dotpict 11,body,dotpict 55,dotpict 49,none
+1283,dotpict 5,body,dotpict 55,dotpict 18,dotpict 60
+1284,dotpict 12,body,gray,dotpict 56,none
+1285,dotpict 12,body,dotpict 57,dotpict 70,dotpict 65
+1286,white,body,dotpict 66,dotpict 19,none
+1287,dotpict 7,body,black,dotpict 70,none
+1288,dotpict 14,body,dotpict 69,dotpict 26,none
+1289,dotpict 10,body,dotpict 66,dotpict 56,none
+1290,dotpict 13,body,dotpict 50,dotpict 20,none
+1291,orange,body,black,dotpict 21,none
+1292,light-blue,body,dotpict 57,sleep,none
+1293,dotpict 11,body,dotpict 66,dotpict 18,none
+1294,dotpict 11,body,dotpict 50,dotpict 70,dotpict 58
+1295,dotpict 4,body,dotpict 52,dotpict 49,dotpict 39
+1296,dotpict 7,body,white,dotpict 70,none
+1297,dotpict 5,body,dotpict 66,normal,none
+1298,dotpict 8,body,dotpict 50,dotpict 20,none
+1299,dotpict 2,body,gray,dotpict 20,none
+1300,white,body,dotpict 46,dotpict 49,none
+1301,purple,body,dotpict 66,long-mouth,none
+1302,dotpict 14,body,dotpict 57,long-mouth,dotpict 63
+1303,dotpict 12,body,white,dotpict 59,none
+1304,dotpict 6,body,dotpict 69,dotpict 20,none
+1305,dotpict 10,body,dotpict 46,dotpict 17,none
+1306,dotpict 2,body,black,normal,none
+1307,dotpict 11,body,light-gray,long,none
+1308,orange,body,black,dotpict 49,none
+1309,dotpict 3,body,dotpict 57,dotpict 49,none
+1310,red,body,dotpict 52,dotpict 59,dotpict 67
+1311,dotpict 10,body,white,dotpict 19,dotpict 60
+1312,white,body,dotpict 50,sleep,none
+1313,dotpict 8,body,gray,dotpict 59,none
+1314,dotpict 3,body,dotpict 52,normal,none
+1315,dotpict 7,body,dotpict 57,dotpict 59,none
+1316,orange,body,black,dotpict 24,dotpict 43
+1317,orange,body,light-gray,long,none
+1318,dotpict 13,body,dotpict 50,dotpict 49,dotpict 61
+1319,dotpict 13,body,dotpict 46,normal,none
+1320,orange,body,black,dotpict 21,dotpict 39
+1321,dotpict 4,body,dotpict 66,normal,none
+1322,dotpict 5,body,light-gray,dotpict 59,dotpict 58
+1323,dotpict 2,body,black,dotpict 59,none
+1324,white,body,dotpict 55,dotpict 59,none
+1325,dotpict 4,body,dotpict 52,dotpict 26,dotpict 62
+1326,orange,body,gray,dotpict 24,none
+1327,dotpict 2,body,light-gray,dotpict 26,none
+1328,purple,body,dotpict 66,dotpict 17,none
+1329,dotpict 3,body,white,dotpict 19,none
+1330,dotpict 15,body,dotpict 66,dotpict 21,none
+1331,dotpict 7,body,dotpict 52,dotpict 26,none
+1332,dotpict 3,body,dotpict 52,dotpict 24,none
+1333,dotpict 5,body,dotpict 57,normal,none
+1334,dotpict 4,body,dotpict 69,dotpict 17,none
+1335,dotpict 12,body,dotpict 46,dotpict 20,none
+1336,dotpict 11,body,gray,dotpict 17,dotpict 41
+1337,dotpict 4,body,dotpict 46,long-mouth,none
+1338,dotpict 12,body,black,dotpict 56,none
+1339,dotpict 2,body,dotpict 52,long-mouth,none
+1340,dotpict 10,body,black,dotpict 24,none
+1341,dotpict 5,body,white,dotpict 26,none
+1342,dotpict 10,body,black,dotpict 19,none
+1343,dotpict 5,body,dotpict 69,dotpict 26,none
+1344,dotpict 5,body,light-gray,dotpict 70,none
+1345,dotpict 10,body,dotpict 55,dotpict 18,none
+1346,dotpict 9,body,dotpict 50,dotpict 26,none
+1347,dotpict 6,body,dotpict 50,dotpict 26,none
+1348,white,body,dotpict 46,dotpict 18,dotpict 60
+1349,dotpict 12,body,dotpict 50,dotpict 21,none
+1350,dotpict 2,body,dotpict 52,dotpict 19,none
+1351,dotpict 12,body,dotpict 55,dotpict 49,none
+1352,red,body,dotpict 69,dotpict 18,none
+1353,dotpict 9,body,black,dotpict 18,none
+1354,dotpict 12,body,light-gray,dotpict 24,dotpict 65
+1355,dotpict 7,body,dotpict 69,normal,none
+1356,purple,body,dotpict 50,dotpict 24,none
+1357,dotpict 8,body,light-gray,dotpict 21,none
+1358,dotpict 6,body,dotpict 66,sleep,none
+1359,dotpict 2,body,light-gray,dotpict 19,none
+1360,purple,body,dotpict 57,dotpict 24,none
+1361,dotpict 3,body,light-gray,dotpict 18,none
+1362,white,body,black,dotpict 70,none
+1363,dotpict 13,body,dotpict 52,dotpict 21,dotpict 60
+1364,orange,body,dotpict 66,long,dotpict 60
+1365,dotpict 2,body,dotpict 57,dotpict 49,none
+1366,orange,body,dotpict 52,dotpict 21,none
+1367,light-blue,body,dotpict 55,dotpict 20,none
+1368,orange,body,gray,dotpict 56,none
+1369,red,body,dotpict 46,dotpict 59,none
+1370,dotpict 4,body,dotpict 55,dotpict 59,none
+1371,dotpict 14,body,dotpict 55,dotpict 18,none
+1372,light-blue,body,dotpict 46,dotpict 18,dotpict 65
+1373,dotpict 3,body,dotpict 52,dotpict 70,none
+1374,dotpict 12,body,dotpict 57,dotpict 59,none
+1375,orange,body,dotpict 66,dotpict 24,none
+1376,dotpict 12,body,white,long-mouth,none
+1377,dotpict 3,body,dotpict 46,dotpict 59,none
+1378,dotpict 2,body,dotpict 55,dotpict 26,dotpict 23
+1379,white,body,dotpict 66,normal,none
+1380,dotpict 6,body,dotpict 55,dotpict 49,dotpict 61
+1381,dotpict 11,body,dotpict 66,dotpict 19,none
+1382,light-blue,body,white,dotpict 17,none
+1383,dotpict 12,body,gray,normal,none
+1384,orange,body,dotpict 46,dotpict 56,none
+1385,dotpict 11,body,dotpict 46,dotpict 56,dotpict 23
+1386,dotpict 9,body,dotpict 50,long-mouth,none
+1387,dotpict 13,body,dotpict 52,dotpict 18,none
+1388,orange,body,dotpict 52,normal,none
+1389,dotpict 2,body,light-gray,dotpict 17,dotpict 65
+1390,dotpict 10,body,dotpict 55,dotpict 21,none
+1391,dotpict 15,body,white,sleep,none
+1392,dotpict 5,body,gray,dotpict 70,none
+1393,dotpict 5,body,dotpict 55,sleep,none
+1394,dotpict 7,body,dotpict 46,dotpict 18,none
+1395,red,body,white,dotpict 21,none
+1396,dotpict 11,body,black,dotpict 21,none
+1397,dotpict 7,body,dotpict 50,dotpict 21,none
+1398,dotpict 7,body,dotpict 57,dotpict 56,none
+1399,dotpict 2,body,dotpict 50,dotpict 49,none
+1400,dotpict 10,body,dotpict 52,dotpict 17,dotpict 16
+1401,dotpict 12,body,light-gray,dotpict 70,dotpict 39
+1402,dotpict 9,body,dotpict 46,dotpict 18,dotpict 39
+1403,dotpict 15,body,black,dotpict 26,none
+1404,purple,body,dotpict 46,dotpict 19,none
+1405,dotpict 7,body,dotpict 66,dotpict 17,dotpict 67
+1406,dotpict 6,body,dotpict 46,long-mouth,none
+1407,white,body,dotpict 69,dotpict 21,none
+1408,dotpict 9,body,light-gray,dotpict 19,none
+1409,dotpict 2,body,dotpict 55,dotpict 19,none
+1410,dotpict 5,body,dotpict 50,dotpict 20,none
+1411,light-blue,body,dotpict 50,dotpict 21,none
+1412,dotpict 6,body,dotpict 46,sleep,dotpict 67
+1413,dotpict 3,body,light-gray,long,none
+1414,dotpict 9,body,dotpict 46,dotpict 26,none
+1415,dotpict 15,body,dotpict 55,dotpict 26,none
+1416,dotpict 14,body,dotpict 50,sleep,none
+1417,dotpict 7,body,dotpict 55,dotpict 19,none
+1418,dotpict 10,body,dotpict 57,dotpict 21,none
+1419,dotpict 14,body,light-gray,dotpict 18,none
+1420,dotpict 15,body,dotpict 46,dotpict 17,dotpict 41
+1421,dotpict 5,body,black,dotpict 19,none
+1422,dotpict 5,body,dotpict 55,dotpict 20,dotpict 65
+1423,dotpict 15,body,dotpict 66,long-mouth,none
+1424,light-blue,body,dotpict 50,dotpict 26,none
+1425,dotpict 9,body,light-gray,dotpict 17,none
+1426,dotpict 14,body,dotpict 46,dotpict 24,dotpict 43
+1427,dotpict 10,body,dotpict 66,dotpict 18,none
+1428,dotpict 2,body,dotpict 57,dotpict 18,none
+1429,dotpict 15,body,light-gray,dotpict 24,none
+1430,dotpict 2,body,gray,dotpict 24,dotpict 23
+1431,dotpict 3,body,dotpict 55,sleep,none
+1432,dotpict 4,body,gray,dotpict 59,none
+1433,dotpict 6,body,dotpict 69,dotpict 24,none
+1434,dotpict 5,body,light-gray,dotpict 26,none
+1435,dotpict 12,body,dotpict 52,dotpict 20,dotpict 67
+1436,purple,body,dotpict 52,dotpict 19,dotpict 39
+1437,light-blue,body,gray,dotpict 59,dotpict 60
+1438,light-blue,body,dotpict 50,dotpict 17,none
+1439,dotpict 14,body,dotpict 57,dotpict 18,dotpict 16
+1440,dotpict 11,body,dotpict 50,long-mouth,dotpict 39
+1441,white,body,dotpict 50,long-mouth,dotpict 63
+1442,dotpict 11,body,dotpict 52,dotpict 70,none
+1443,orange,body,gray,normal,none
+1444,dotpict 14,body,light-gray,dotpict 20,none
+1445,dotpict 3,body,dotpict 69,dotpict 24,none
+1446,dotpict 15,body,black,dotpict 20,none
+1447,purple,body,dotpict 69,dotpict 70,none
+1448,dotpict 2,body,dotpict 69,dotpict 24,none
+1449,dotpict 6,body,light-gray,dotpict 21,none
+1450,dotpict 12,body,light-gray,dotpict 59,dotpict 60
+1451,light-blue,body,white,dotpict 70,none
+1452,red,body,dotpict 46,dotpict 18,dotpict 16
+1453,dotpict 15,body,white,normal,none
+1454,purple,body,light-gray,dotpict 17,none
+1455,dotpict 4,body,dotpict 57,sleep,dotpict 39
+1456,dotpict 8,body,black,dotpict 26,dotpict 39
+1457,dotpict 14,body,dotpict 50,normal,none
+1458,dotpict 6,body,black,dotpict 20,none
+1459,dotpict 13,body,light-gray,normal,dotpict 67
+1460,dotpict 7,body,dotpict 52,dotpict 18,dotpict 63
+1461,dotpict 5,body,dotpict 55,dotpict 26,none
+1462,dotpict 3,body,dotpict 69,dotpict 26,none
+1463,dotpict 9,body,dotpict 52,dotpict 20,dotpict 39
+1464,dotpict 3,body,dotpict 55,dotpict 18,none
+1465,dotpict 2,body,dotpict 52,dotpict 24,dotpict 61
+1466,white,body,dotpict 50,dotpict 17,none
+1467,dotpict 5,body,dotpict 52,dotpict 59,none
+1468,orange,body,dotpict 69,dotpict 17,dotpict 63
+1469,dotpict 4,body,dotpict 66,dotpict 20,none
+1470,white,body,dotpict 57,dotpict 21,dotpict 23
+1471,dotpict 12,body,gray,dotpict 70,dotpict 41
+1472,dotpict 9,body,dotpict 55,dotpict 59,none
+1473,dotpict 9,body,black,dotpict 21,none
+1474,dotpict 14,body,dotpict 55,long,dotpict 62
+1475,orange,body,dotpict 69,normal,dotpict 63
+1476,dotpict 2,body,dotpict 52,dotpict 56,dotpict 63
+1477,dotpict 12,body,white,dotpict 17,none
+1478,dotpict 11,body,gray,dotpict 19,dotpict 16
+1479,dotpict 5,body,black,dotpict 49,none
+1480,dotpict 8,body,white,long,none
+1481,dotpict 9,body,dotpict 57,dotpict 49,none
+1482,dotpict 9,body,dotpict 57,dotpict 26,none
+1483,dotpict 13,body,dotpict 69,dotpict 18,none
+1484,purple,body,light-gray,normal,none
+1485,dotpict 14,body,gray,long-mouth,none
+1486,purple,body,dotpict 46,dotpict 56,none
+1487,white,body,dotpict 66,dotpict 56,none
+1488,red,body,dotpict 52,dotpict 17,dotpict 61
+1489,dotpict 10,body,light-gray,normal,dotpict 63
+1490,dotpict 14,body,dotpict 46,long-mouth,none
+1491,dotpict 14,body,dotpict 52,dotpict 24,none
+1492,dotpict 10,body,white,long-mouth,none
+1493,dotpict 14,body,gray,dotpict 18,none
+1494,purple,body,dotpict 52,dotpict 20,none
+1495,dotpict 7,body,dotpict 55,dotpict 24,none
+1496,dotpict 15,body,dotpict 57,sleep,none
+1497,dotpict 15,body,black,normal,none
+1498,dotpict 3,body,dotpict 57,long-mouth,none
+1499,dotpict 5,body,dotpict 69,dotpict 56,none
+1500,dotpict 2,body,dotpict 55,dotpict 18,none
+1501,dotpict 10,body,dotpict 50,dotpict 49,dotpict 43
+1502,dotpict 9,body,black,dotpict 21,dotpict 43
+1503,dotpict 15,body,dotpict 66,dotpict 49,none
+1504,orange,body,white,normal,dotpict 67
+1505,orange,body,dotpict 52,dotpict 20,none
+1506,light-blue,body,white,long,none
+1507,dotpict 11,body,dotpict 52,dotpict 59,none
+1508,dotpict 6,body,dotpict 69,long-mouth,none
+1509,dotpict 9,body,light-gray,dotpict 20,dotpict 62
+1510,dotpict 6,body,gray,sleep,none
+1511,dotpict 13,body,dotpict 52,dotpict 21,none
+1512,light-blue,body,dotpict 52,dotpict 19,none
+1513,dotpict 12,body,dotpict 46,long-mouth,none
+1514,dotpict 13,body,dotpict 55,dotpict 20,none
+1515,orange,body,dotpict 55,dotpict 59,dotpict 41
+1516,dotpict 2,body,dotpict 66,dotpict 56,none
+1517,dotpict 12,body,white,dotpict 70,dotpict 43
+1518,dotpict 12,body,dotpict 66,dotpict 59,none
+1519,dotpict 9,body,white,dotpict 17,none
+1520,dotpict 9,body,dotpict 46,dotpict 49,none
+1521,light-blue,body,gray,dotpict 18,none
+1522,white,body,light-gray,dotpict 19,none
+1523,dotpict 14,body,gray,dotpict 49,none
+1524,dotpict 3,body,dotpict 55,dotpict 20,none
+1525,dotpict 3,body,dotpict 69,dotpict 19,none
+1526,dotpict 5,body,gray,dotpict 21,none
+1527,dotpict 9,body,dotpict 57,normal,none
+1528,dotpict 11,body,light-gray,dotpict 17,dotpict 39
+1529,dotpict 14,body,dotpict 55,dotpict 56,dotpict 16
+1530,dotpict 2,body,black,dotpict 56,none
+1531,dotpict 7,body,dotpict 55,dotpict 56,dotpict 58
+1532,dotpict 12,body,dotpict 50,dotpict 20,none
+1533,dotpict 7,body,white,sleep,none
+1534,dotpict 8,body,dotpict 55,dotpict 21,none
+1535,purple,body,dotpict 55,dotpict 70,none
+1536,dotpict 15,body,light-gray,normal,none
+1537,dotpict 2,body,dotpict 66,dotpict 70,dotpict 61
+1538,dotpict 4,body,white,dotpict 19,dotpict 23
+1539,orange,body,gray,dotpict 21,dotpict 62
+1540,dotpict 5,body,dotpict 69,dotpict 19,none
+1541,red,body,dotpict 50,normal,none
+1542,dotpict 14,body,dotpict 52,dotpict 49,dotpict 67
+1543,dotpict 9,body,white,dotpict 70,dotpict 43
+1544,dotpict 11,body,gray,dotpict 70,none
+1545,dotpict 14,body,dotpict 46,dotpict 20,dotpict 39
+1546,dotpict 5,body,dotpict 46,long-mouth,none
+1547,red,body,dotpict 50,dotpict 18,none
+1548,dotpict 4,body,white,dotpict 18,none
+1549,dotpict 8,body,dotpict 50,normal,none
+1550,dotpict 6,body,dotpict 69,sleep,none
+1551,dotpict 7,body,dotpict 57,dotpict 70,none
+1552,dotpict 9,body,gray,dotpict 21,none
+1553,dotpict 4,body,black,dotpict 59,none
+1554,dotpict 4,body,dotpict 57,dotpict 21,none
+1555,light-blue,body,dotpict 69,dotpict 59,dotpict 39
+1556,dotpict 12,body,white,sleep,none
+1557,dotpict 6,body,white,dotpict 21,dotpict 23
+1558,dotpict 14,body,dotpict 46,dotpict 59,none
+1559,dotpict 9,body,black,dotpict 17,none
+1560,dotpict 8,body,black,normal,none
+1561,purple,body,dotpict 46,dotpict 24,none
+1562,dotpict 3,body,dotpict 50,dotpict 19,none
+1563,dotpict 6,body,light-gray,dotpict 17,none
+1564,dotpict 4,body,gray,dotpict 21,none
+1565,dotpict 3,body,dotpict 66,dotpict 24,none
+1566,dotpict 5,body,dotpict 55,dotpict 20,none
+1567,dotpict 10,body,dotpict 52,dotpict 49,dotpict 39
+1568,dotpict 9,body,light-gray,dotpict 56,none
+1569,orange,body,dotpict 57,dotpict 18,none
+1570,dotpict 8,body,gray,dotpict 49,none
+1571,dotpict 15,body,dotpict 52,dotpict 18,none
+1572,dotpict 8,body,dotpict 57,long,none
+1573,dotpict 9,body,gray,normal,none
+1574,white,body,light-gray,dotpict 24,dotpict 39
+1575,dotpict 5,body,light-gray,dotpict 19,dotpict 61
+1576,light-blue,body,dotpict 66,dotpict 56,none
+1577,dotpict 2,body,dotpict 69,dotpict 19,none
+1578,dotpict 10,body,dotpict 66,normal,none
+1579,dotpict 12,body,dotpict 52,dotpict 26,none
+1580,dotpict 5,body,dotpict 66,dotpict 19,none
+1581,dotpict 9,body,dotpict 66,dotpict 19,none
+1582,dotpict 12,body,white,dotpict 20,none
+1583,dotpict 12,body,dotpict 50,dotpict 70,none
+1584,dotpict 4,body,dotpict 52,long-mouth,none
+1585,dotpict 11,body,dotpict 55,dotpict 56,none
+1586,dotpict 10,body,black,dotpict 56,none
+1587,dotpict 12,body,light-gray,dotpict 20,none
+1588,dotpict 2,body,dotpict 50,dotpict 21,none
+1589,light-blue,body,light-gray,sleep,none
+1590,dotpict 3,body,gray,dotpict 49,none
+1591,dotpict 7,body,black,dotpict 26,dotpict 16
+1592,dotpict 14,body,dotpict 55,dotpict 49,none
+1593,red,body,dotpict 57,dotpict 70,none
+1594,dotpict 8,body,white,dotpict 70,none
+1595,dotpict 11,body,white,dotpict 49,none
+1596,dotpict 5,body,dotpict 55,dotpict 19,none
+1597,white,body,white,dotpict 18,dotpict 58
+1598,dotpict 14,body,dotpict 66,dotpict 17,dotpict 58
+1599,dotpict 2,body,gray,dotpict 19,none
+1600,dotpict 7,body,light-gray,dotpict 19,dotpict 58
+1601,dotpict 14,body,gray,long-mouth,dotpict 63
+1602,dotpict 15,body,dotpict 66,normal,dotpict 60
+1603,dotpict 5,body,light-gray,dotpict 70,dotpict 41
+1604,light-blue,body,dotpict 52,dotpict 18,none
+1605,light-blue,body,gray,dotpict 20,none
+1606,dotpict 12,body,black,dotpict 19,dotpict 39
+1607,light-blue,body,dotpict 52,dotpict 56,none
+1608,dotpict 14,body,dotpict 66,dotpict 49,none
+1609,dotpict 15,body,dotpict 46,dotpict 26,dotpict 67
+1610,orange,body,dotpict 55,dotpict 49,none
+1611,dotpict 9,body,black,dotpict 24,dotpict 61
+1612,dotpict 6,body,black,long-mouth,none
+1613,dotpict 10,body,dotpict 50,normal,none
+1614,orange,body,dotpict 46,dotpict 19,none
+1615,red,body,gray,dotpict 19,none
+1616,dotpict 12,body,gray,long,none
+1617,dotpict 6,body,light-gray,dotpict 59,none
+1618,dotpict 15,body,light-gray,dotpict 70,none
+1619,white,body,dotpict 52,dotpict 18,none
+1620,purple,body,dotpict 57,dotpict 21,none
+1621,dotpict 3,body,light-gray,dotpict 24,dotpict 39
+1622,purple,body,dotpict 55,long,dotpict 41
+1623,dotpict 15,body,dotpict 57,dotpict 56,dotpict 63
+1624,dotpict 7,body,gray,dotpict 56,dotpict 67
+1625,white,body,dotpict 55,dotpict 24,none
+1626,dotpict 4,body,dotpict 57,dotpict 70,none
+1627,dotpict 9,body,black,dotpict 59,dotpict 16
+1628,dotpict 14,body,dotpict 69,dotpict 17,none
+1629,dotpict 9,body,light-gray,sleep,none
+1630,dotpict 8,body,black,dotpict 21,dotpict 23
+1631,light-blue,body,dotpict 55,sleep,none
+1632,dotpict 7,body,light-gray,dotpict 59,none
+1633,purple,body,gray,dotpict 17,none
+1634,orange,body,dotpict 66,dotpict 59,dotpict 23
+1635,dotpict 7,body,dotpict 66,dotpict 17,none
+1636,dotpict 9,body,dotpict 50,dotpict 20,none
+1637,white,body,white,dotpict 20,none
+1638,dotpict 6,body,white,dotpict 59,none
+1639,dotpict 10,body,dotpict 66,dotpict 20,none
+1640,red,body,gray,dotpict 49,none
+1641,dotpict 13,body,dotpict 55,dotpict 21,none
+1642,dotpict 3,body,dotpict 55,dotpict 19,none
+1643,dotpict 12,body,black,dotpict 59,none
+1644,dotpict 5,body,dotpict 52,dotpict 18,dotpict 67
+1645,orange,body,gray,long,dotpict 65
+1646,dotpict 6,body,dotpict 55,dotpict 49,none
+1647,dotpict 5,body,dotpict 52,dotpict 70,dotpict 58
+1648,purple,body,dotpict 55,dotpict 17,none
+1649,dotpict 11,body,dotpict 55,normal,dotpict 60
